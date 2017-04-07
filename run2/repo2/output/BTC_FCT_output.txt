@@ -1,0 +1,2213 @@
+Tick:	../data/BTC_FCT.txt
+K in:	8
+D in:	2
+K1 in:	
+Len:	19760
+
+ twap,sma Cumulative Diff:	17.11002926763458
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	8
+D in:	2
+K1 in:	
+Len:	19629
+
+ twap,sma Cumulative Diff:	150.65371711517923
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	8
+D in:	2
+K1 in:	
+Len:	19535
+
+ twap,sma Cumulative Diff:	230.29955923938158
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	8
+D in:	2
+K1 in:	
+Len:	19488
+
+ twap,sma Cumulative Diff:	581.1577151884522
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	8
+D in:	2
+K1 in:	
+Len:	19454
+
+ twap,sma Cumulative Diff:	3933.6101991712508
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	8
+D in:	2
+K1 in:	
+Len:	19437
+
+ twap,sma Cumulative Diff:	6446.477876222248
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	8
+D in:	2
+K1 in:	
+Len:	19433
+
+ twap,sma Cumulative Diff:	11114.895030497608
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	9
+D in:	2
+K1 in:	
+Len:	18740
+
+ twap,sma Cumulative Diff:	7.696574495502571
+bitchCunt:	0.017745Tick:	../data/BTC_FCT.txt
+K in:	9
+D in:	2
+K1 in:	
+Len:	18412
+
+ twap,sma Cumulative Diff:	361.50400699465365
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	9
+D in:	2
+K1 in:	
+Len:	18157
+
+ twap,sma Cumulative Diff:	50155.034580580585
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	9
+D in:	2
+K1 in:	
+Len:	18006
+
+ twap,sma Cumulative Diff:	580552.3821425237
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	9
+D in:	2
+K1 in:	
+Len:	17890
+
+ twap,sma Cumulative Diff:	832545.0252968246
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	9
+D in:	2
+K1 in:	
+Len:	17832
+
+ twap,sma Cumulative Diff:	5498914.279971116
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	9
+D in:	2
+K1 in:	
+Len:	17792
+
+ twap,sma Cumulative Diff:	41415032.377016954
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	9
+D in:	2
+K1 in:	
+Len:	17773
+
+ twap,sma Cumulative Diff:	85533946.58226281
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	9
+D in:	2
+K1 in:	
+Len:	17765
+
+ twap,sma Cumulative Diff:	171671752.80934387
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	10
+D in:	2
+K1 in:	
+Len:	18506
+
+ twap,sma Cumulative Diff:	1.0460440322179394
+bitchCunt:	0.0105Tick:	../data/BTC_FCT.txt
+K in:	10
+D in:	2
+K1 in:	
+Len:	18036
+
+ twap,sma Cumulative Diff:	135.61509266832655
+bitchCunt:	0.01365Tick:	../data/BTC_FCT.txt
+K in:	10
+D in:	2
+K1 in:	
+Len:	17594
+
+ twap,sma Cumulative Diff:	4680.530465879476
+bitchCunt:	0.017745Tick:	../data/BTC_FCT.txt
+K in:	10
+D in:	2
+K1 in:	
+Len:	17237
+
+ twap,sma Cumulative Diff:	279669.12474181445
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	10
+D in:	2
+K1 in:	
+Len:	16969
+
+ twap,sma Cumulative Diff:	19034466.77337721
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	10
+D in:	2
+K1 in:	
+Len:	16804
+
+ twap,sma Cumulative Diff:	127251283.68855582
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	10
+D in:	2
+K1 in:	
+Len:	16672
+
+ twap,sma Cumulative Diff:	247768863.67010546
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	10
+D in:	2
+K1 in:	
+Len:	16603
+
+ twap,sma Cumulative Diff:	2006747256.758275
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	10
+D in:	2
+K1 in:	
+Len:	16562
+
+ twap,sma Cumulative Diff:	11445347294.32469
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	10
+D in:	2
+K1 in:	
+Len:	16535
+
+ twap,sma Cumulative Diff:	12180500317.952078
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	10
+D in:	2
+K1 in:	
+Len:	16529
+
+ twap,sma Cumulative Diff:	24740059957.585045
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	12
+D in:	2
+K1 in:	
+Len:	17859
+
+ twap,sma Cumulative Diff:	2.6061093267818176
+bitchCunt:	0.007Tick:	../data/BTC_FCT.txt
+K in:	12
+D in:	2
+K1 in:	
+Len:	16877
+
+ twap,sma Cumulative Diff:	1990.9871322957547
+bitchCunt:	0.0105Tick:	../data/BTC_FCT.txt
+K in:	12
+D in:	2
+K1 in:	
+Len:	16334
+
+ twap,sma Cumulative Diff:	91616.66566009996
+bitchCunt:	0.01365Tick:	../data/BTC_FCT.txt
+K in:	12
+D in:	2
+K1 in:	
+Len:	15860
+
+ twap,sma Cumulative Diff:	9517782.392356228
+bitchCunt:	0.017745Tick:	../data/BTC_FCT.txt
+K in:	12
+D in:	2
+K1 in:	
+Len:	15454
+
+ twap,sma Cumulative Diff:	969006133.0141128
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	12
+D in:	2
+K1 in:	
+Len:	15133
+
+ twap,sma Cumulative Diff:	71370468341.63539
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	12
+D in:	2
+K1 in:	
+Len:	14928
+
+ twap,sma Cumulative Diff:	1007965649050.5852
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	12
+D in:	2
+K1 in:	
+Len:	14774
+
+ twap,sma Cumulative Diff:	5477125092995.845
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	12
+D in:	2
+K1 in:	
+Len:	14690
+
+ twap,sma Cumulative Diff:	37173164330572.164
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	12
+D in:	2
+K1 in:	
+Len:	14640
+
+ twap,sma Cumulative Diff:	665569470706747.6
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	12
+D in:	2
+K1 in:	
+Len:	14614
+
+ twap,sma Cumulative Diff:	256128963476071.53
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	12
+D in:	2
+K1 in:	
+Len:	14598
+
+ twap,sma Cumulative Diff:	796841446781869.2
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	15531
+
+ twap,sma Cumulative Diff:	187.3856391583365
+bitchCunt:	0.007Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	14366
+
+ twap,sma Cumulative Diff:	344274.1789099903
+bitchCunt:	0.0105Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	13688
+
+ twap,sma Cumulative Diff:	53111679.10734893
+bitchCunt:	0.01365Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	13127
+
+ twap,sma Cumulative Diff:	6330809424.494374
+bitchCunt:	0.017745Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	12666
+
+ twap,sma Cumulative Diff:	1224419664150.4321
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	12293
+
+ twap,sma Cumulative Diff:	109636014747047.83
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	12033
+
+ twap,sma Cumulative Diff:	3750585161224953.5
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	11851
+
+ twap,sma Cumulative Diff:	5.474522638512575e+16
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	11755
+
+ twap,sma Cumulative Diff:	1.6814095088279107e+17
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	11687
+
+ twap,sma Cumulative Diff:	1.646544719899617e+18
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	11650
+
+ twap,sma Cumulative Diff:	1.8295683870324127e+18
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	11634
+
+ twap,sma Cumulative Diff:	3.2924476190654136e+18
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	3
+K1 in:	
+Len:	11738
+
+ twap,sma Cumulative Diff:	1.2438569488582694
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	3
+K1 in:	
+Len:	11617
+
+ twap,sma Cumulative Diff:	13.33464565662844
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	3
+K1 in:	
+Len:	11545
+
+ twap,sma Cumulative Diff:	11.866071959682376
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	3
+K1 in:	
+Len:	11493
+
+ twap,sma Cumulative Diff:	272.4973363032153
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	3
+K1 in:	
+Len:	11472
+
+ twap,sma Cumulative Diff:	72.68762970620702
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	17
+D in:	3
+K1 in:	
+Len:	11458
+
+ twap,sma Cumulative Diff:	150.24863307599693
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	20
+D in:	3
+K1 in:	
+Len:	10923
+
+ twap,sma Cumulative Diff:	1.967112385934845
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	20
+D in:	3
+K1 in:	
+Len:	10687
+
+ twap,sma Cumulative Diff:	21.188179298654475
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	20
+D in:	3
+K1 in:	
+Len:	10548
+
+ twap,sma Cumulative Diff:	118.49601707888128
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	20
+D in:	3
+K1 in:	
+Len:	10459
+
+ twap,sma Cumulative Diff:	264.67370786486396
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	20
+D in:	3
+K1 in:	
+Len:	10403
+
+ twap,sma Cumulative Diff:	4436.570549997909
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	20
+D in:	3
+K1 in:	
+Len:	10374
+
+ twap,sma Cumulative Diff:	3261.4175503202096
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	20
+D in:	3
+K1 in:	
+Len:	10361
+
+ twap,sma Cumulative Diff:	6099.432801665761
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	24
+D in:	3
+K1 in:	
+Len:	10193
+
+ twap,sma Cumulative Diff:	4.510419083238667
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	24
+D in:	3
+K1 in:	
+Len:	9850
+
+ twap,sma Cumulative Diff:	77.3928940415115
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	24
+D in:	3
+K1 in:	
+Len:	9597
+
+ twap,sma Cumulative Diff:	798.0702066027268
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	24
+D in:	3
+K1 in:	
+Len:	9420
+
+ twap,sma Cumulative Diff:	9668.102688724646
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	24
+D in:	3
+K1 in:	
+Len:	9313
+
+ twap,sma Cumulative Diff:	47719.23344318985
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	24
+D in:	3
+K1 in:	
+Len:	9250
+
+ twap,sma Cumulative Diff:	267913.1769261287
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	24
+D in:	3
+K1 in:	
+Len:	9213
+
+ twap,sma Cumulative Diff:	417972.2175832746
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	24
+D in:	3
+K1 in:	
+Len:	9198
+
+ twap,sma Cumulative Diff:	1072202.7379021887
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	29
+D in:	3
+K1 in:	
+Len:	9360
+
+ twap,sma Cumulative Diff:	33.92789104988946
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	29
+D in:	3
+K1 in:	
+Len:	8978
+
+ twap,sma Cumulative Diff:	697.4848931841938
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	29
+D in:	3
+K1 in:	
+Len:	8685
+
+ twap,sma Cumulative Diff:	15906.088021509895
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	29
+D in:	3
+K1 in:	
+Len:	8484
+
+ twap,sma Cumulative Diff:	143020.00518556786
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	29
+D in:	3
+K1 in:	
+Len:	8362
+
+ twap,sma Cumulative Diff:	879874.6840788509
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	29
+D in:	3
+K1 in:	
+Len:	8285
+
+ twap,sma Cumulative Diff:	11114752.353309605
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	29
+D in:	3
+K1 in:	
+Len:	8244
+
+ twap,sma Cumulative Diff:	15527855.723175632
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	29
+D in:	3
+K1 in:	
+Len:	8228
+
+ twap,sma Cumulative Diff:	52259001.49415486
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	35
+D in:	3
+K1 in:	
+Len:	9043
+
+ twap,sma Cumulative Diff:	2.4649921493450613
+bitchCunt:	0.017745Tick:	../data/BTC_FCT.txt
+K in:	35
+D in:	3
+K1 in:	
+Len:	8516
+
+ twap,sma Cumulative Diff:	323.67558729575995
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	35
+D in:	3
+K1 in:	
+Len:	8114
+
+ twap,sma Cumulative Diff:	10907.057894517828
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	35
+D in:	3
+K1 in:	
+Len:	7783
+
+ twap,sma Cumulative Diff:	534545.9412361041
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	35
+D in:	3
+K1 in:	
+Len:	7561
+
+ twap,sma Cumulative Diff:	4914425.976956847
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	35
+D in:	3
+K1 in:	
+Len:	7429
+
+ twap,sma Cumulative Diff:	32973924.40574252
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	35
+D in:	3
+K1 in:	
+Len:	7335
+
+ twap,sma Cumulative Diff:	559204791.844135
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	35
+D in:	3
+K1 in:	
+Len:	7292
+
+ twap,sma Cumulative Diff:	1241190560.6155767
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	35
+D in:	3
+K1 in:	
+Len:	7269
+
+ twap,sma Cumulative Diff:	5984300886.733112
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	17489
+
+ twap,sma Cumulative Diff:	15.974437742272332
+bitchCunt:	0.0Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	12078
+
+ twap,sma Cumulative Diff:	371.6309010583749
+bitchCunt:	0.007Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	10540
+
+ twap,sma Cumulative Diff:	13567106.872779377
+bitchCunt:	0.0105Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	9692
+
+ twap,sma Cumulative Diff:	3459782519.3953023
+bitchCunt:	0.01365Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	9002
+
+ twap,sma Cumulative Diff:	1562644457855.9902
+bitchCunt:	0.017745Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	8423
+
+ twap,sma Cumulative Diff:	284853117016044.1
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	7982
+
+ twap,sma Cumulative Diff:	1.556807315326274e+16
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	7606
+
+ twap,sma Cumulative Diff:	4.19135661579945e+17
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	7365
+
+ twap,sma Cumulative Diff:	6.312859407890986e+18
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	7199
+
+ twap,sma Cumulative Diff:	6.162027934180869e+19
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	7086
+
+ twap,sma Cumulative Diff:	1.0459299593060467e+21
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	7028
+
+ twap,sma Cumulative Diff:	2.859911164120569e+21
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	6994
+
+ twap,sma Cumulative Diff:	2.0482800637632357e+22
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	3
+K1 in:	
+Len:	8392
+
+ twap,sma Cumulative Diff:	57.210842143209426
+bitchCunt:	0.017745Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	3
+K1 in:	
+Len:	7831
+
+ twap,sma Cumulative Diff:	9145.146676872711
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	3
+K1 in:	
+Len:	7406
+
+ twap,sma Cumulative Diff:	172566.15847599614
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	3
+K1 in:	
+Len:	7049
+
+ twap,sma Cumulative Diff:	5846370.291914177
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	3
+K1 in:	
+Len:	6825
+
+ twap,sma Cumulative Diff:	54616985.2652165
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	3
+K1 in:	
+Len:	6675
+
+ twap,sma Cumulative Diff:	747178530.0228528
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	3
+K1 in:	
+Len:	6574
+
+ twap,sma Cumulative Diff:	12258531019.517794
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	3
+K1 in:	
+Len:	6530
+
+ twap,sma Cumulative Diff:	12723736432.104942
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	3
+K1 in:	
+Len:	6501
+
+ twap,sma Cumulative Diff:	89334042090.74982
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	4
+K1 in:	
+Len:	6938
+
+ twap,sma Cumulative Diff:	1.9656439401084327
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	4
+K1 in:	
+Len:	6815
+
+ twap,sma Cumulative Diff:	7.312238731364359
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	4
+K1 in:	
+Len:	6735
+
+ twap,sma Cumulative Diff:	53.44857677170204
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	4
+K1 in:	
+Len:	6698
+
+ twap,sma Cumulative Diff:	230.9859160732239
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	42
+D in:	4
+K1 in:	
+Len:	6672
+
+ twap,sma Cumulative Diff:	1180.579568352187
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	7765
+
+ twap,sma Cumulative Diff:	69.20081410309044
+bitchCunt:	0.017745Tick:	../data/BTC_FCT.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	7174
+
+ twap,sma Cumulative Diff:	18901.349904409755
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	6724
+
+ twap,sma Cumulative Diff:	971911.9763585234
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	6355
+
+ twap,sma Cumulative Diff:	17487551.297257207
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	6107
+
+ twap,sma Cumulative Diff:	375383761.728235
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	5943
+
+ twap,sma Cumulative Diff:	7702524693.622993
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	5838
+
+ twap,sma Cumulative Diff:	212370335099.6336
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	5787
+
+ twap,sma Cumulative Diff:	286270118261.04126
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	5756
+
+ twap,sma Cumulative Diff:	1623770099478.7324
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	51
+D in:	4
+K1 in:	
+Len:	6421
+
+ twap,sma Cumulative Diff:	2.1031493628420583
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	51
+D in:	4
+K1 in:	
+Len:	6186
+
+ twap,sma Cumulative Diff:	95.40343588754355
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	51
+D in:	4
+K1 in:	
+Len:	6046
+
+ twap,sma Cumulative Diff:	1073.2179013579057
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	51
+D in:	4
+K1 in:	
+Len:	5956
+
+ twap,sma Cumulative Diff:	15776.482080232538
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	51
+D in:	4
+K1 in:	
+Len:	5920
+
+ twap,sma Cumulative Diff:	9536.31279620405
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	51
+D in:	4
+K1 in:	
+Len:	5892
+
+ twap,sma Cumulative Diff:	75136.02001146255
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	61
+D in:	5
+K1 in:	
+Len:	5386
+
+ twap,sma Cumulative Diff:	1.596309764489861
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	61
+D in:	5
+K1 in:	
+Len:	5320
+
+ twap,sma Cumulative Diff:	3.8036176836244917
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	6845
+
+ twap,sma Cumulative Diff:	130.79408157572388
+bitchCunt:	0.017745Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	6204
+
+ twap,sma Cumulative Diff:	90213.20096741081
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	5723
+
+ twap,sma Cumulative Diff:	3133260.056382723
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	5335
+
+ twap,sma Cumulative Diff:	101422398.89834867
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	5065
+
+ twap,sma Cumulative Diff:	6374773129.083999
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	4888
+
+ twap,sma Cumulative Diff:	78510363063.53548
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	4764
+
+ twap,sma Cumulative Diff:	1641234026909.6516
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	4706
+
+ twap,sma Cumulative Diff:	1258429092028.666
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	4672
+
+ twap,sma Cumulative Diff:	9052336736399.658
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	4
+K1 in:	
+Len:	5325
+
+ twap,sma Cumulative Diff:	36.64638136064145
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	4
+K1 in:	
+Len:	5070
+
+ twap,sma Cumulative Diff:	3771.089522365339
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	4
+K1 in:	
+Len:	4902
+
+ twap,sma Cumulative Diff:	44055.762000697934
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	4
+K1 in:	
+Len:	4796
+
+ twap,sma Cumulative Diff:	618808.8385541358
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	4
+K1 in:	
+Len:	4748
+
+ twap,sma Cumulative Diff:	476584.58942158194
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	4
+K1 in:	
+Len:	4717
+
+ twap,sma Cumulative Diff:	2530941.3827188355
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	5
+K1 in:	
+Len:	4960
+
+ twap,sma Cumulative Diff:	1.2541638968614193
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	5
+K1 in:	
+Len:	4866
+
+ twap,sma Cumulative Diff:	11.019937904688465
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	5
+K1 in:	
+Len:	4824
+
+ twap,sma Cumulative Diff:	4.978084815350711
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	74
+D in:	5
+K1 in:	
+Len:	4791
+
+ twap,sma Cumulative Diff:	34.78115887427498
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	6512
+
+ twap,sma Cumulative Diff:	205.2459051821576
+bitchCunt:	0.017745Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	5850
+
+ twap,sma Cumulative Diff:	229531.25207801053
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	5362
+
+ twap,sma Cumulative Diff:	2801992.802568907
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	4967
+
+ twap,sma Cumulative Diff:	983900918.9323274
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	4683
+
+ twap,sma Cumulative Diff:	78786655524.07513
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	4508
+
+ twap,sma Cumulative Diff:	305688581760.2488
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	4371
+
+ twap,sma Cumulative Diff:	6237763287930.766
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	4309
+
+ twap,sma Cumulative Diff:	7766036569517.897
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	4273
+
+ twap,sma Cumulative Diff:	24460822829018.777
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	4
+K1 in:	
+Len:	5322
+
+ twap,sma Cumulative Diff:	1.6945321526538284
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	4
+K1 in:	
+Len:	4933
+
+ twap,sma Cumulative Diff:	407.1601924248436
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	4
+K1 in:	
+Len:	4667
+
+ twap,sma Cumulative Diff:	38161.2315754338
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	4
+K1 in:	
+Len:	4498
+
+ twap,sma Cumulative Diff:	162317.51725709543
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	4
+K1 in:	
+Len:	4377
+
+ twap,sma Cumulative Diff:	3149167.7033482497
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	4
+K1 in:	
+Len:	4319
+
+ twap,sma Cumulative Diff:	2026549.1084008175
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	4
+K1 in:	
+Len:	4289
+
+ twap,sma Cumulative Diff:	4489589.142565104
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	5
+K1 in:	
+Len:	4642
+
+ twap,sma Cumulative Diff:	17.05606296852893
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	5
+K1 in:	
+Len:	4488
+
+ twap,sma Cumulative Diff:	86.53331001667465
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	5
+K1 in:	
+Len:	4376
+
+ twap,sma Cumulative Diff:	1004.462925205308
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	5
+K1 in:	
+Len:	4326
+
+ twap,sma Cumulative Diff:	424.32297378538846
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	5
+K1 in:	
+Len:	4290
+
+ twap,sma Cumulative Diff:	1361.7292895001503
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	89
+D in:	6
+K1 in:	
+Len:	4314
+
+ twap,sma Cumulative Diff:	1.2303675393683993
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	6222
+
+ twap,sma Cumulative Diff:	4.671089661781619
+bitchCunt:	0.017745Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	5545
+
+ twap,sma Cumulative Diff:	5260.600158344803
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	5042
+
+ twap,sma Cumulative Diff:	112221.47877955483
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	4634
+
+ twap,sma Cumulative Diff:	20577376.263679974
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	4348
+
+ twap,sma Cumulative Diff:	1476688239.7656095
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	4166
+
+ twap,sma Cumulative Diff:	11630812036.888048
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	4030
+
+ twap,sma Cumulative Diff:	346754425107.32135
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	3960
+
+ twap,sma Cumulative Diff:	508589166510.3867
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	3923
+
+ twap,sma Cumulative Diff:	3075493566227.123
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	4
+K1 in:	
+Len:	4647
+
+ twap,sma Cumulative Diff:	105.34402118797259
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	4
+K1 in:	
+Len:	4372
+
+ twap,sma Cumulative Diff:	10708.326862486765
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	4
+K1 in:	
+Len:	4203
+
+ twap,sma Cumulative Diff:	90785.94525495074
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	4
+K1 in:	
+Len:	4077
+
+ twap,sma Cumulative Diff:	2374435.891405739
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	4
+K1 in:	
+Len:	4013
+
+ twap,sma Cumulative Diff:	1276954.1663793924
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	4
+K1 in:	
+Len:	3982
+
+ twap,sma Cumulative Diff:	7136703.285724921
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	5
+K1 in:	
+Len:	4394
+
+ twap,sma Cumulative Diff:	12.583849700792445
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	5
+K1 in:	
+Len:	4235
+
+ twap,sma Cumulative Diff:	71.20190351089684
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	5
+K1 in:	
+Len:	4119
+
+ twap,sma Cumulative Diff:	1410.0006874742598
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	5
+K1 in:	
+Len:	4063
+
+ twap,sma Cumulative Diff:	369.59398747990554
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	5
+K1 in:	
+Len:	4028
+
+ twap,sma Cumulative Diff:	2110.9959585421207
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	6
+K1 in:	
+Len:	4092
+
+ twap,sma Cumulative Diff:	11.235054652681686
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	6
+K1 in:	
+Len:	4039
+
+ twap,sma Cumulative Diff:	8.204497595797307
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	106
+D in:	6
+K1 in:	
+Len:	4007
+
+ twap,sma Cumulative Diff:	21.96164023289018
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	6025
+
+ twap,sma Cumulative Diff:	1.3597305175697434
+bitchCunt:	0.017745Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	5319
+
+ twap,sma Cumulative Diff:	2798.3051182316453
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	4802
+
+ twap,sma Cumulative Diff:	109471.40234833781
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	4382
+
+ twap,sma Cumulative Diff:	35075688.84371214
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	4084
+
+ twap,sma Cumulative Diff:	2686152625.135637
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	3910
+
+ twap,sma Cumulative Diff:	20996800982.19705
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	3770
+
+ twap,sma Cumulative Diff:	757876753283.441
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	3699
+
+ twap,sma Cumulative Diff:	962183668943.1445
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	3654
+
+ twap,sma Cumulative Diff:	6349144167814.722
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	4
+K1 in:	
+Len:	4319
+
+ twap,sma Cumulative Diff:	174.15757925088997
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	4
+K1 in:	
+Len:	4035
+
+ twap,sma Cumulative Diff:	13344.715533503539
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	4
+K1 in:	
+Len:	3870
+
+ twap,sma Cumulative Diff:	114342.6697259137
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	4
+K1 in:	
+Len:	3741
+
+ twap,sma Cumulative Diff:	3324879.2833794043
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	4
+K1 in:	
+Len:	3679
+
+ twap,sma Cumulative Diff:	1723614.4325861887
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	4
+K1 in:	
+Len:	3640
+
+ twap,sma Cumulative Diff:	11422992.521261647
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	5
+K1 in:	
+Len:	4072
+
+ twap,sma Cumulative Diff:	5.841715467661035
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	5
+K1 in:	
+Len:	3907
+
+ twap,sma Cumulative Diff:	74.98194552949725
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	5
+K1 in:	
+Len:	3787
+
+ twap,sma Cumulative Diff:	1470.3678021055139
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	5
+K1 in:	
+Len:	3726
+
+ twap,sma Cumulative Diff:	560.1457502505834
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	5
+K1 in:	
+Len:	3688
+
+ twap,sma Cumulative Diff:	4014.827907027851
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	6
+K1 in:	
+Len:	3749
+
+ twap,sma Cumulative Diff:	17.71971872340209
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	6
+K1 in:	
+Len:	3691
+
+ twap,sma Cumulative Diff:	12.509364196716067
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	128
+D in:	6
+K1 in:	
+Len:	3657
+
+ twap,sma Cumulative Diff:	49.156640805390786
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	2
+K1 in:	
+Len:	7041
+
+ twap,sma Cumulative Diff:	13.961296950660936
+bitchCunt:	0.01365Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	2
+K1 in:	
+Len:	6201
+
+ twap,sma Cumulative Diff:	10420.07419101161
+bitchCunt:	0.017745Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	2
+K1 in:	
+Len:	5480
+
+ twap,sma Cumulative Diff:	108516021.23875602
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	2
+K1 in:	
+Len:	4942
+
+ twap,sma Cumulative Diff:	1465775846.5531836
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	2
+K1 in:	
+Len:	4507
+
+ twap,sma Cumulative Diff:	347613511426.6213
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	2
+K1 in:	
+Len:	4176
+
+ twap,sma Cumulative Diff:	48980066193455.81
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	2
+K1 in:	
+Len:	3982
+
+ twap,sma Cumulative Diff:	444909500653975.0
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	2
+K1 in:	
+Len:	3835
+
+ twap,sma Cumulative Diff:	3.3613529158634548e+16
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	2
+K1 in:	
+Len:	3755
+
+ twap,sma Cumulative Diff:	5.71135710410166e+16
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	2
+K1 in:	
+Len:	3705
+
+ twap,sma Cumulative Diff:	3.457520441073221e+17
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	3
+K1 in:	
+Len:	5015
+
+ twap,sma Cumulative Diff:	895.1060029546534
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	3
+K1 in:	
+Len:	4479
+
+ twap,sma Cumulative Diff:	7601.374138956921
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	3
+K1 in:	
+Len:	4050
+
+ twap,sma Cumulative Diff:	1568897.9710026379
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	3
+K1 in:	
+Len:	3730
+
+ twap,sma Cumulative Diff:	172106952.81605795
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	3
+K1 in:	
+Len:	3542
+
+ twap,sma Cumulative Diff:	1512064927.043976
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	3
+K1 in:	
+Len:	3395
+
+ twap,sma Cumulative Diff:	90956105102.46004
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	3
+K1 in:	
+Len:	3317
+
+ twap,sma Cumulative Diff:	224344400303.2947
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	3
+K1 in:	
+Len:	3270
+
+ twap,sma Cumulative Diff:	1640808284349.16
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	4
+K1 in:	
+Len:	4010
+
+ twap,sma Cumulative Diff:	143.88641401023153
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	4
+K1 in:	
+Len:	3706
+
+ twap,sma Cumulative Diff:	8936.91150215811
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	4
+K1 in:	
+Len:	3537
+
+ twap,sma Cumulative Diff:	55493.045468255994
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	4
+K1 in:	
+Len:	3398
+
+ twap,sma Cumulative Diff:	3854931.497354701
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	4
+K1 in:	
+Len:	3329
+
+ twap,sma Cumulative Diff:	4718828.821238722
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	4
+K1 in:	
+Len:	3289
+
+ twap,sma Cumulative Diff:	19951188.182732105
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	5
+K1 in:	
+Len:	3997
+
+ twap,sma Cumulative Diff:	2.5269330149042593
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	5
+K1 in:	
+Len:	3702
+
+ twap,sma Cumulative Diff:	95.08308985524997
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	5
+K1 in:	
+Len:	3540
+
+ twap,sma Cumulative Diff:	465.3482154286275
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	5
+K1 in:	
+Len:	3409
+
+ twap,sma Cumulative Diff:	21086.55696345427
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	5
+K1 in:	
+Len:	3341
+
+ twap,sma Cumulative Diff:	21480.41817791816
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	5
+K1 in:	
+Len:	3301
+
+ twap,sma Cumulative Diff:	81151.38098156254
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	6
+K1 in:	
+Len:	3522
+
+ twap,sma Cumulative Diff:	1.7943760752726854
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	6
+K1 in:	
+Len:	3387
+
+ twap,sma Cumulative Diff:	122.24579122181439
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	6
+K1 in:	
+Len:	3320
+
+ twap,sma Cumulative Diff:	125.86340168095191
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	154
+D in:	6
+K1 in:	
+Len:	3283
+
+ twap,sma Cumulative Diff:	334.4405116834395
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	3
+K1 in:	
+Len:	4775
+
+ twap,sma Cumulative Diff:	24.99172892540084
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	3
+K1 in:	
+Len:	4218
+
+ twap,sma Cumulative Diff:	788.2383774075666
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	3
+K1 in:	
+Len:	3778
+
+ twap,sma Cumulative Diff:	170839.69798185164
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	3
+K1 in:	
+Len:	3451
+
+ twap,sma Cumulative Diff:	40136562.80965355
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	3
+K1 in:	
+Len:	3257
+
+ twap,sma Cumulative Diff:	334525917.09857655
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	3
+K1 in:	
+Len:	3102
+
+ twap,sma Cumulative Diff:	15913794241.333036
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	3
+K1 in:	
+Len:	3027
+
+ twap,sma Cumulative Diff:	104728341355.18301
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	3
+K1 in:	
+Len:	2974
+
+ twap,sma Cumulative Diff:	495636467955.3925
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	4
+K1 in:	
+Len:	3731
+
+ twap,sma Cumulative Diff:	30.538243653079764
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	4
+K1 in:	
+Len:	3414
+
+ twap,sma Cumulative Diff:	10520.725489493774
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	4
+K1 in:	
+Len:	3236
+
+ twap,sma Cumulative Diff:	49612.948775908706
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	4
+K1 in:	
+Len:	3093
+
+ twap,sma Cumulative Diff:	2291177.6031677327
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	4
+K1 in:	
+Len:	3019
+
+ twap,sma Cumulative Diff:	10842167.669873768
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	4
+K1 in:	
+Len:	2974
+
+ twap,sma Cumulative Diff:	36045709.69142428
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	5
+K1 in:	
+Len:	3409
+
+ twap,sma Cumulative Diff:	38.43965226500089
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	5
+K1 in:	
+Len:	3241
+
+ twap,sma Cumulative Diff:	144.75719440061943
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	5
+K1 in:	
+Len:	3107
+
+ twap,sma Cumulative Diff:	3256.6680232209096
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	5
+K1 in:	
+Len:	3036
+
+ twap,sma Cumulative Diff:	14353.612280334857
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	5
+K1 in:	
+Len:	2991
+
+ twap,sma Cumulative Diff:	39937.026601457874
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	6
+K1 in:	
+Len:	3082
+
+ twap,sma Cumulative Diff:	2.7272275785508584
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	6
+K1 in:	
+Len:	3012
+
+ twap,sma Cumulative Diff:	11.416558592359596
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	184
+D in:	6
+K1 in:	
+Len:	2971
+
+ twap,sma Cumulative Diff:	20.7252891909137
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	2
+K1 in:	
+Len:	4926
+
+ twap,sma Cumulative Diff:	490.83884587737936
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	2
+K1 in:	
+Len:	4364
+
+ twap,sma Cumulative Diff:	10507.15684978888
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	2
+K1 in:	
+Len:	3900
+
+ twap,sma Cumulative Diff:	1539623.838966268
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	2
+K1 in:	
+Len:	3550
+
+ twap,sma Cumulative Diff:	363226523.9503526
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	2
+K1 in:	
+Len:	3348
+
+ twap,sma Cumulative Diff:	3385894764.0178924
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	2
+K1 in:	
+Len:	3190
+
+ twap,sma Cumulative Diff:	140370314223.96365
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	2
+K1 in:	
+Len:	3098
+
+ twap,sma Cumulative Diff:	2313486632257.669
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	2
+K1 in:	
+Len:	3039
+
+ twap,sma Cumulative Diff:	12811562264532.877
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	3
+K1 in:	
+Len:	3509
+
+ twap,sma Cumulative Diff:	28.666172125835846
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	3
+K1 in:	
+Len:	3168
+
+ twap,sma Cumulative Diff:	3234.9416915161055
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	3
+K1 in:	
+Len:	2966
+
+ twap,sma Cumulative Diff:	44210.41952813193
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	3
+K1 in:	
+Len:	2811
+
+ twap,sma Cumulative Diff:	2286565.3541436424
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	3
+K1 in:	
+Len:	2722
+
+ twap,sma Cumulative Diff:	14595529.614953328
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	3
+K1 in:	
+Len:	2666
+
+ twap,sma Cumulative Diff:	140163075.23916444
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	5
+K1 in:	
+Len:	2947
+
+ twap,sma Cumulative Diff:	2.0881356466390226
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	5
+K1 in:	
+Len:	2809
+
+ twap,sma Cumulative Diff:	50.52587275206643
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	5
+K1 in:	
+Len:	2730
+
+ twap,sma Cumulative Diff:	344.9498459600664
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	221
+D in:	5
+K1 in:	
+Len:	2685
+
+ twap,sma Cumulative Diff:	712.547890880366
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	2
+K1 in:	
+Len:	5454
+
+ twap,sma Cumulative Diff:	1.6407365444306548
+bitchCunt:	0.017745Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	2
+K1 in:	
+Len:	4659
+
+ twap,sma Cumulative Diff:	7111.742388821513
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	2
+K1 in:	
+Len:	4069
+
+ twap,sma Cumulative Diff:	650655.0904090442
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	2
+K1 in:	
+Len:	3598
+
+ twap,sma Cumulative Diff:	63059227.041098684
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	2
+K1 in:	
+Len:	3265
+
+ twap,sma Cumulative Diff:	3639887660.8081694
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	2
+K1 in:	
+Len:	3046
+
+ twap,sma Cumulative Diff:	46198253407.85902
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	2
+K1 in:	
+Len:	2894
+
+ twap,sma Cumulative Diff:	1010770136781.0524
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	2
+K1 in:	
+Len:	2806
+
+ twap,sma Cumulative Diff:	8153837806392.079
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	2
+K1 in:	
+Len:	2745
+
+ twap,sma Cumulative Diff:	33530989471848.297
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	3
+K1 in:	
+Len:	3719
+
+ twap,sma Cumulative Diff:	12.268891347478169
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	3
+K1 in:	
+Len:	3251
+
+ twap,sma Cumulative Diff:	1855.9873100322104
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	3
+K1 in:	
+Len:	2930
+
+ twap,sma Cumulative Diff:	44256.069657309694
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	3
+K1 in:	
+Len:	2712
+
+ twap,sma Cumulative Diff:	810528.4665259657
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	3
+K1 in:	
+Len:	2563
+
+ twap,sma Cumulative Diff:	28208357.329562206
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	3
+K1 in:	
+Len:	2475
+
+ twap,sma Cumulative Diff:	127751307.25981405
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	3
+K1 in:	
+Len:	2416
+
+ twap,sma Cumulative Diff:	1144035128.1958556
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	4
+K1 in:	
+Len:	3235
+
+ twap,sma Cumulative Diff:	2.4138529858432434
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	4
+K1 in:	
+Len:	2918
+
+ twap,sma Cumulative Diff:	25.780042397564408
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	4
+K1 in:	
+Len:	2710
+
+ twap,sma Cumulative Diff:	502.9990606740119
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	4
+K1 in:	
+Len:	2566
+
+ twap,sma Cumulative Diff:	11540.55871133159
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	4
+K1 in:	
+Len:	2479
+
+ twap,sma Cumulative Diff:	78980.55683903267
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_FCT.txt
+K in:	266
+D in:	4
+K1 in:	
+Len:	2425
+
+ twap,sma Cumulative Diff:	594577.5127775432
+bitchCunt:	0.14475141644145006

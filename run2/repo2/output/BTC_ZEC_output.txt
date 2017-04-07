@@ -1,0 +1,64 @@
+Tick:	../data/BTC_ZEC.txt
+K in:	10
+D in:	266
+K1 in:	
+Len:	1091
+
+ twap,sma Cumulative Diff:	1.0203786757222422
+bitchCunt:	0.01365Tick:	../data/BTC_ZEC.txt
+K in:	17
+D in:	266
+K1 in:	
+Len:	1060
+
+ twap,sma Cumulative Diff:	1.012604388617907
+bitchCunt:	0.01365Tick:	../data/BTC_ZEC.txt
+K in:	35
+D in:	266
+K1 in:	
+Len:	1075
+
+ twap,sma Cumulative Diff:	1.6744594413123512
+bitchCunt:	0.01365Tick:	../data/BTC_ZEC.txt
+K in:	42
+D in:	266
+K1 in:	
+Len:	1089
+
+ twap,sma Cumulative Diff:	1.927398595196147
+bitchCunt:	0.01365Tick:	../data/BTC_ZEC.txt
+K in:	51
+D in:	266
+K1 in:	
+Len:	1114
+
+ twap,sma Cumulative Diff:	1.6052380537424125
+bitchCunt:	0.01365Tick:	../data/BTC_ZEC.txt
+K in:	61
+D in:	266
+K1 in:	
+Len:	1128
+
+ twap,sma Cumulative Diff:	1.4827203360426695
+bitchCunt:	0.01365Tick:	../data/BTC_ZEC.txt
+K in:	74
+D in:	266
+K1 in:	
+Len:	1159
+
+ twap,sma Cumulative Diff:	1.043762941374166
+bitchCunt:	0.01365Tick:	../data/BTC_ZEC.txt
+K in:	89
+D in:	266
+K1 in:	
+Len:	1184
+
+ twap,sma Cumulative Diff:	1.3071573024321503
+bitchCunt:	0.01365Tick:	../data/BTC_ZEC.txt
+K in:	106
+D in:	266
+K1 in:	
+Len:	1194
+
+ twap,sma Cumulative Diff:	1.2293602933131875
+bitchCunt:	0.01365

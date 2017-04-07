@@ -1,0 +1,1562 @@
+Tick:	../data/BTC_XMR.txt
+K in:	14
+D in:	2
+K1 in:	
+Len:	16102
+
+ twap,sma Cumulative Diff:	1.5667124455166157
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	14
+D in:	2
+K1 in:	
+Len:	15898
+
+ twap,sma Cumulative Diff:	12.606064124323165
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	14
+D in:	2
+K1 in:	
+Len:	15771
+
+ twap,sma Cumulative Diff:	55.20911780495135
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	14
+D in:	2
+K1 in:	
+Len:	15696
+
+ twap,sma Cumulative Diff:	191.73946591216298
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	14
+D in:	2
+K1 in:	
+Len:	15650
+
+ twap,sma Cumulative Diff:	802.9196566034749
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	14
+D in:	2
+K1 in:	
+Len:	15636
+
+ twap,sma Cumulative Diff:	783.8549299508182
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	14
+D in:	2
+K1 in:	
+Len:	15627
+
+ twap,sma Cumulative Diff:	1444.5520637608927
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	15577
+
+ twap,sma Cumulative Diff:	1.6229641178542622
+bitchCunt:	0.01365Tick:	../data/BTC_XMR.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	15007
+
+ twap,sma Cumulative Diff:	66.03549219659169
+bitchCunt:	0.017745Tick:	../data/BTC_XMR.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	14581
+
+ twap,sma Cumulative Diff:	333.6298917518052
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	14244
+
+ twap,sma Cumulative Diff:	3153.5998004369685
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	14025
+
+ twap,sma Cumulative Diff:	22231.968640220395
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	13885
+
+ twap,sma Cumulative Diff:	88879.18245131972
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	13795
+
+ twap,sma Cumulative Diff:	739887.2797843415
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	13750
+
+ twap,sma Cumulative Diff:	1608613.6212415767
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	13729
+
+ twap,sma Cumulative Diff:	2651759.2878542594
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	17
+D in:	2
+K1 in:	
+Len:	13719
+
+ twap,sma Cumulative Diff:	4807171.680681753
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	20
+D in:	2
+K1 in:	
+Len:	14387
+
+ twap,sma Cumulative Diff:	22.08224208454524
+bitchCunt:	0.01365Tick:	../data/BTC_XMR.txt
+K in:	20
+D in:	2
+K1 in:	
+Len:	13784
+
+ twap,sma Cumulative Diff:	1252.1939347950656
+bitchCunt:	0.017745Tick:	../data/BTC_XMR.txt
+K in:	20
+D in:	2
+K1 in:	
+Len:	13336
+
+ twap,sma Cumulative Diff:	11662.271271876278
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	20
+D in:	2
+K1 in:	
+Len:	12993
+
+ twap,sma Cumulative Diff:	85990.7367180857
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	20
+D in:	2
+K1 in:	
+Len:	12754
+
+ twap,sma Cumulative Diff:	659554.9451362236
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	20
+D in:	2
+K1 in:	
+Len:	12593
+
+ twap,sma Cumulative Diff:	2618396.2399167605
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	20
+D in:	2
+K1 in:	
+Len:	12504
+
+ twap,sma Cumulative Diff:	10456456.728296869
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	20
+D in:	2
+K1 in:	
+Len:	12450
+
+ twap,sma Cumulative Diff:	40566158.142164044
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	20
+D in:	2
+K1 in:	
+Len:	12418
+
+ twap,sma Cumulative Diff:	98336233.9155605
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	20
+D in:	2
+K1 in:	
+Len:	12408
+
+ twap,sma Cumulative Diff:	156595758.69038278
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	24
+D in:	2
+K1 in:	
+Len:	13186
+
+ twap,sma Cumulative Diff:	98.22374364530306
+bitchCunt:	0.01365Tick:	../data/BTC_XMR.txt
+K in:	24
+D in:	2
+K1 in:	
+Len:	12540
+
+ twap,sma Cumulative Diff:	5036.318494276654
+bitchCunt:	0.017745Tick:	../data/BTC_XMR.txt
+K in:	24
+D in:	2
+K1 in:	
+Len:	12064
+
+ twap,sma Cumulative Diff:	145267.6871741945
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	24
+D in:	2
+K1 in:	
+Len:	11704
+
+ twap,sma Cumulative Diff:	1826782.6901334533
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	24
+D in:	2
+K1 in:	
+Len:	11449
+
+ twap,sma Cumulative Diff:	13756283.631221188
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	24
+D in:	2
+K1 in:	
+Len:	11297
+
+ twap,sma Cumulative Diff:	47379407.40959136
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	24
+D in:	2
+K1 in:	
+Len:	11198
+
+ twap,sma Cumulative Diff:	119440812.28783031
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	24
+D in:	2
+K1 in:	
+Len:	11146
+
+ twap,sma Cumulative Diff:	305085981.712172
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	24
+D in:	2
+K1 in:	
+Len:	11108
+
+ twap,sma Cumulative Diff:	1184905062.6702628
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	24
+D in:	2
+K1 in:	
+Len:	11097
+
+ twap,sma Cumulative Diff:	2125730720.1033955
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	29
+D in:	2
+K1 in:	
+Len:	13012
+
+ twap,sma Cumulative Diff:	1.361820277500508
+bitchCunt:	0.0105Tick:	../data/BTC_XMR.txt
+K in:	29
+D in:	2
+K1 in:	
+Len:	12133
+
+ twap,sma Cumulative Diff:	221.95173168509493
+bitchCunt:	0.01365Tick:	../data/BTC_XMR.txt
+K in:	29
+D in:	2
+K1 in:	
+Len:	11446
+
+ twap,sma Cumulative Diff:	22771.403799014177
+bitchCunt:	0.017745Tick:	../data/BTC_XMR.txt
+K in:	29
+D in:	2
+K1 in:	
+Len:	10918
+
+ twap,sma Cumulative Diff:	1262858.0784087463
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	29
+D in:	2
+K1 in:	
+Len:	10546
+
+ twap,sma Cumulative Diff:	20359391.009747498
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	29
+D in:	2
+K1 in:	
+Len:	10267
+
+ twap,sma Cumulative Diff:	184183138.9286918
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	29
+D in:	2
+K1 in:	
+Len:	10112
+
+ twap,sma Cumulative Diff:	1177492207.4565704
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	29
+D in:	2
+K1 in:	
+Len:	10006
+
+ twap,sma Cumulative Diff:	1951910659.7045221
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	29
+D in:	2
+K1 in:	
+Len:	9950
+
+ twap,sma Cumulative Diff:	4706386566.66292
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	29
+D in:	2
+K1 in:	
+Len:	9911
+
+ twap,sma Cumulative Diff:	16001184435.333176
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	29
+D in:	2
+K1 in:	
+Len:	9898
+
+ twap,sma Cumulative Diff:	40715642164.92265
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	2
+K1 in:	
+Len:	12133
+
+ twap,sma Cumulative Diff:	1.3306846011617672
+bitchCunt:	0.0105Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	2
+K1 in:	
+Len:	11234
+
+ twap,sma Cumulative Diff:	390.43479146626805
+bitchCunt:	0.01365Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	2
+K1 in:	
+Len:	10516
+
+ twap,sma Cumulative Diff:	59651.832657305116
+bitchCunt:	0.017745Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	2
+K1 in:	
+Len:	9979
+
+ twap,sma Cumulative Diff:	3716086.0606744755
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	2
+K1 in:	
+Len:	9572
+
+ twap,sma Cumulative Diff:	94009402.85187905
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	2
+K1 in:	
+Len:	9285
+
+ twap,sma Cumulative Diff:	1240879777.4675748
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	2
+K1 in:	
+Len:	9123
+
+ twap,sma Cumulative Diff:	7095072679.195853
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	2
+K1 in:	
+Len:	9011
+
+ twap,sma Cumulative Diff:	7343172311.6860695
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	2
+K1 in:	
+Len:	8949
+
+ twap,sma Cumulative Diff:	28281343664.79361
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	2
+K1 in:	
+Len:	8906
+
+ twap,sma Cumulative Diff:	157970740728.1901
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	2
+K1 in:	
+Len:	8893
+
+ twap,sma Cumulative Diff:	297107991408.0773
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	3
+K1 in:	
+Len:	8764
+
+ twap,sma Cumulative Diff:	2.578376193192702
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	3
+K1 in:	
+Len:	8662
+
+ twap,sma Cumulative Diff:	3.691646983895573
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	3
+K1 in:	
+Len:	8613
+
+ twap,sma Cumulative Diff:	9.524982354029792
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	3
+K1 in:	
+Len:	8583
+
+ twap,sma Cumulative Diff:	31.24877840043452
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	35
+D in:	3
+K1 in:	
+Len:	8576
+
+ twap,sma Cumulative Diff:	41.648672540327574
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	10500
+
+ twap,sma Cumulative Diff:	353.5436708595628
+bitchCunt:	0.01365Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	9758
+
+ twap,sma Cumulative Diff:	44794.858365739936
+bitchCunt:	0.017745Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	9199
+
+ twap,sma Cumulative Diff:	1417733.9761552454
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	8768
+
+ twap,sma Cumulative Diff:	35038220.369387284
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	8477
+
+ twap,sma Cumulative Diff:	596155247.1784282
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	8285
+
+ twap,sma Cumulative Diff:	5626460893.469281
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	8180
+
+ twap,sma Cumulative Diff:	4543991594.103508
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	8108
+
+ twap,sma Cumulative Diff:	32640386960.897053
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	8063
+
+ twap,sma Cumulative Diff:	112984664096.65613
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	2
+K1 in:	
+Len:	8050
+
+ twap,sma Cumulative Diff:	156040096106.7226
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	3
+K1 in:	
+Len:	7989
+
+ twap,sma Cumulative Diff:	1.480408150010813
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	3
+K1 in:	
+Len:	7832
+
+ twap,sma Cumulative Diff:	13.941026208680167
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	3
+K1 in:	
+Len:	7732
+
+ twap,sma Cumulative Diff:	15.312154357723058
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	3
+K1 in:	
+Len:	7674
+
+ twap,sma Cumulative Diff:	70.11867968061787
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	3
+K1 in:	
+Len:	7644
+
+ twap,sma Cumulative Diff:	188.55083742924114
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	42
+D in:	3
+K1 in:	
+Len:	7634
+
+ twap,sma Cumulative Diff:	237.9560201240239
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	2
+K1 in:	
+Len:	9837
+
+ twap,sma Cumulative Diff:	646.4529651219648
+bitchCunt:	0.01365Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	2
+K1 in:	
+Len:	9074
+
+ twap,sma Cumulative Diff:	203849.42241692517
+bitchCunt:	0.017745Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	2
+K1 in:	
+Len:	8510
+
+ twap,sma Cumulative Diff:	3625072.4786899523
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	2
+K1 in:	
+Len:	8071
+
+ twap,sma Cumulative Diff:	83542385.74918556
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	2
+K1 in:	
+Len:	7777
+
+ twap,sma Cumulative Diff:	1064925686.5180299
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	2
+K1 in:	
+Len:	7581
+
+ twap,sma Cumulative Diff:	11867932075.412807
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	2
+K1 in:	
+Len:	7470
+
+ twap,sma Cumulative Diff:	9430849527.029345
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	2
+K1 in:	
+Len:	7395
+
+ twap,sma Cumulative Diff:	39094010475.34942
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	2
+K1 in:	
+Len:	7343
+
+ twap,sma Cumulative Diff:	214000332637.49963
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	2
+K1 in:	
+Len:	7329
+
+ twap,sma Cumulative Diff:	230270210276.33826
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	7477
+
+ twap,sma Cumulative Diff:	2.670545848430732
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	7214
+
+ twap,sma Cumulative Diff:	19.467755052525213
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	7041
+
+ twap,sma Cumulative Diff:	215.17808904851825
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	6941
+
+ twap,sma Cumulative Diff:	228.60381189551546
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	6873
+
+ twap,sma Cumulative Diff:	856.2839661889967
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	6838
+
+ twap,sma Cumulative Diff:	2988.600635044762
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	51
+D in:	3
+K1 in:	
+Len:	6828
+
+ twap,sma Cumulative Diff:	2956.942336976981
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	2
+K1 in:	
+Len:	9220
+
+ twap,sma Cumulative Diff:	487.19162510797366
+bitchCunt:	0.01365Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	2
+K1 in:	
+Len:	8446
+
+ twap,sma Cumulative Diff:	102841.7779220381
+bitchCunt:	0.017745Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	2
+K1 in:	
+Len:	7862
+
+ twap,sma Cumulative Diff:	5337601.389215526
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	2
+K1 in:	
+Len:	7422
+
+ twap,sma Cumulative Diff:	173192699.57717523
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	2
+K1 in:	
+Len:	7136
+
+ twap,sma Cumulative Diff:	756577246.7080405
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	2
+K1 in:	
+Len:	6930
+
+ twap,sma Cumulative Diff:	9654609118.428967
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	2
+K1 in:	
+Len:	6824
+
+ twap,sma Cumulative Diff:	3813282483.236055
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	2
+K1 in:	
+Len:	6738
+
+ twap,sma Cumulative Diff:	45802221081.005165
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	2
+K1 in:	
+Len:	6686
+
+ twap,sma Cumulative Diff:	187944040836.32184
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	2
+K1 in:	
+Len:	6671
+
+ twap,sma Cumulative Diff:	258047800264.79025
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	3
+K1 in:	
+Len:	7234
+
+ twap,sma Cumulative Diff:	1.5588618900893059
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	3
+K1 in:	
+Len:	6825
+
+ twap,sma Cumulative Diff:	15.11910586979254
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	3
+K1 in:	
+Len:	6557
+
+ twap,sma Cumulative Diff:	119.0885315008517
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	3
+K1 in:	
+Len:	6381
+
+ twap,sma Cumulative Diff:	1231.5515200281634
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	3
+K1 in:	
+Len:	6278
+
+ twap,sma Cumulative Diff:	600.8418798609175
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	3
+K1 in:	
+Len:	6203
+
+ twap,sma Cumulative Diff:	6590.2774006854415
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	3
+K1 in:	
+Len:	6168
+
+ twap,sma Cumulative Diff:	18263.645179192965
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	61
+D in:	3
+K1 in:	
+Len:	6157
+
+ twap,sma Cumulative Diff:	17498.8499937328
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	2
+K1 in:	
+Len:	8630
+
+ twap,sma Cumulative Diff:	40.35753766750339
+bitchCunt:	0.01365Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	2
+K1 in:	
+Len:	7828
+
+ twap,sma Cumulative Diff:	8519.532166459809
+bitchCunt:	0.017745Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	2
+K1 in:	
+Len:	7216
+
+ twap,sma Cumulative Diff:	894285.0518980414
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	2
+K1 in:	
+Len:	6782
+
+ twap,sma Cumulative Diff:	23715494.994623747
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	2
+K1 in:	
+Len:	6475
+
+ twap,sma Cumulative Diff:	282643367.53915775
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	2
+K1 in:	
+Len:	6271
+
+ twap,sma Cumulative Diff:	1497907705.1339073
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	2
+K1 in:	
+Len:	6159
+
+ twap,sma Cumulative Diff:	1209020973.2665532
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	2
+K1 in:	
+Len:	6070
+
+ twap,sma Cumulative Diff:	11180789090.377008
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	2
+K1 in:	
+Len:	6020
+
+ twap,sma Cumulative Diff:	34918872280.74478
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	2
+K1 in:	
+Len:	6006
+
+ twap,sma Cumulative Diff:	30486432078.11536
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	6227
+
+ twap,sma Cumulative Diff:	1.570305870288456
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	5936
+
+ twap,sma Cumulative Diff:	20.154493974583236
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	5750
+
+ twap,sma Cumulative Diff:	99.5008455862227
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	5645
+
+ twap,sma Cumulative Diff:	70.25749623087418
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	5558
+
+ twap,sma Cumulative Diff:	902.7830356834922
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	5517
+
+ twap,sma Cumulative Diff:	2498.134495622601
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	74
+D in:	3
+K1 in:	
+Len:	5507
+
+ twap,sma Cumulative Diff:	1807.906173547385
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	2
+K1 in:	
+Len:	8254
+
+ twap,sma Cumulative Diff:	8.51648476230529
+bitchCunt:	0.01365Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	2
+K1 in:	
+Len:	7417
+
+ twap,sma Cumulative Diff:	3016.60959708882
+bitchCunt:	0.017745Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	2
+K1 in:	
+Len:	6798
+
+ twap,sma Cumulative Diff:	80219.87703562927
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	2
+K1 in:	
+Len:	6361
+
+ twap,sma Cumulative Diff:	4932193.6578736
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	2
+K1 in:	
+Len:	6053
+
+ twap,sma Cumulative Diff:	49851324.074273586
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	2
+K1 in:	
+Len:	5835
+
+ twap,sma Cumulative Diff:	449122005.79034936
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	2
+K1 in:	
+Len:	5724
+
+ twap,sma Cumulative Diff:	356087822.8945915
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	2
+K1 in:	
+Len:	5637
+
+ twap,sma Cumulative Diff:	3241067709.8441896
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	2
+K1 in:	
+Len:	5587
+
+ twap,sma Cumulative Diff:	18641313873.714275
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	2
+K1 in:	
+Len:	5570
+
+ twap,sma Cumulative Diff:	13086211833.711416
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	6181
+
+ twap,sma Cumulative Diff:	1.1579224681770315
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	5763
+
+ twap,sma Cumulative Diff:	28.549673296214696
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	5452
+
+ twap,sma Cumulative Diff:	528.1814318628576
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	5259
+
+ twap,sma Cumulative Diff:	2065.7164084445158
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	5151
+
+ twap,sma Cumulative Diff:	1723.5423201117053
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	5063
+
+ twap,sma Cumulative Diff:	14463.567606235087
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	5017
+
+ twap,sma Cumulative Diff:	73320.23526684132
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	3
+K1 in:	
+Len:	5006
+
+ twap,sma Cumulative Diff:	40403.20032945974
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	4
+K1 in:	
+Len:	5103
+
+ twap,sma Cumulative Diff:	2.9406203245222433
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	4
+K1 in:	
+Len:	5068
+
+ twap,sma Cumulative Diff:	9.417686086742773
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	89
+D in:	4
+K1 in:	
+Len:	5060
+
+ twap,sma Cumulative Diff:	6.862478279438887
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	2
+K1 in:	
+Len:	7938
+
+ twap,sma Cumulative Diff:	23.95047868795899
+bitchCunt:	0.01365Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	2
+K1 in:	
+Len:	7069
+
+ twap,sma Cumulative Diff:	16327.728390187649
+bitchCunt:	0.017745Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	2
+K1 in:	
+Len:	6446
+
+ twap,sma Cumulative Diff:	469410.9408263387
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	2
+K1 in:	
+Len:	6003
+
+ twap,sma Cumulative Diff:	28740332.3007678
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	2
+K1 in:	
+Len:	5697
+
+ twap,sma Cumulative Diff:	266566910.50231454
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	2
+K1 in:	
+Len:	5475
+
+ twap,sma Cumulative Diff:	3968427258.6906357
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	2
+K1 in:	
+Len:	5355
+
+ twap,sma Cumulative Diff:	3616428218.413419
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	2
+K1 in:	
+Len:	5271
+
+ twap,sma Cumulative Diff:	18191178798.83702
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	2
+K1 in:	
+Len:	5220
+
+ twap,sma Cumulative Diff:	76784526524.7245
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	2
+K1 in:	
+Len:	5200
+
+ twap,sma Cumulative Diff:	102593487149.434
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	5867
+
+ twap,sma Cumulative Diff:	2.9377927776890562
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	5438
+
+ twap,sma Cumulative Diff:	55.94038317395883
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	5119
+
+ twap,sma Cumulative Diff:	1256.6905596772456
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	4918
+
+ twap,sma Cumulative Diff:	11755.288627271177
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	4801
+
+ twap,sma Cumulative Diff:	10011.694339319249
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	4720
+
+ twap,sma Cumulative Diff:	58235.30881300973
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	4675
+
+ twap,sma Cumulative Diff:	179600.15807963675
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	3
+K1 in:	
+Len:	4657
+
+ twap,sma Cumulative Diff:	202151.51668824442
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	4
+K1 in:	
+Len:	4879
+
+ twap,sma Cumulative Diff:	14.308025287876436
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	4
+K1 in:	
+Len:	4776
+
+ twap,sma Cumulative Diff:	8.759482058900243
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	4
+K1 in:	
+Len:	4695
+
+ twap,sma Cumulative Diff:	43.19653785632165
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	4
+K1 in:	
+Len:	4658
+
+ twap,sma Cumulative Diff:	110.76899939327258
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	106
+D in:	4
+K1 in:	
+Len:	4645
+
+ twap,sma Cumulative Diff:	121.59589758517258
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	2
+K1 in:	
+Len:	7403
+
+ twap,sma Cumulative Diff:	8.087426719150635
+bitchCunt:	0.01365Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	2
+K1 in:	
+Len:	6548
+
+ twap,sma Cumulative Diff:	5932.89144811238
+bitchCunt:	0.017745Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	2
+K1 in:	
+Len:	5889
+
+ twap,sma Cumulative Diff:	207160.3366388354
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	2
+K1 in:	
+Len:	5436
+
+ twap,sma Cumulative Diff:	9215456.851151718
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	2
+K1 in:	
+Len:	5124
+
+ twap,sma Cumulative Diff:	57931671.75308696
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	2
+K1 in:	
+Len:	4900
+
+ twap,sma Cumulative Diff:	1437083520.683729
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	2
+K1 in:	
+Len:	4784
+
+ twap,sma Cumulative Diff:	699197524.9213297
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	2
+K1 in:	
+Len:	4699
+
+ twap,sma Cumulative Diff:	2669997616.8178196
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	2
+K1 in:	
+Len:	4640
+
+ twap,sma Cumulative Diff:	10584136730.497961
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	2
+K1 in:	
+Len:	4618
+
+ twap,sma Cumulative Diff:	17362822691.696304
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	5345
+
+ twap,sma Cumulative Diff:	9.994941076763793
+bitchCunt:	0.023068500000000002Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	4909
+
+ twap,sma Cumulative Diff:	121.66342068687862
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	4591
+
+ twap,sma Cumulative Diff:	1897.3593306971377
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	4384
+
+ twap,sma Cumulative Diff:	28324.52200117059
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	4267
+
+ twap,sma Cumulative Diff:	18316.118470917136
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	4186
+
+ twap,sma Cumulative Diff:	74932.22119830757
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	4130
+
+ twap,sma Cumulative Diff:	315709.1361320083
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	3
+K1 in:	
+Len:	4109
+
+ twap,sma Cumulative Diff:	385858.9827351065
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	4
+K1 in:	
+Len:	4560
+
+ twap,sma Cumulative Diff:	1.010492059376781
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	4
+K1 in:	
+Len:	4361
+
+ twap,sma Cumulative Diff:	22.87586831499915
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	4
+K1 in:	
+Len:	4250
+
+ twap,sma Cumulative Diff:	20.822070449750072
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	4
+K1 in:	
+Len:	4171
+
+ twap,sma Cumulative Diff:	52.03142123803427
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	4
+K1 in:	
+Len:	4128
+
+ twap,sma Cumulative Diff:	178.20029966232426
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	4
+K1 in:	
+Len:	4110
+
+ twap,sma Cumulative Diff:	240.6730226907049
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	5
+K1 in:	
+Len:	4118
+
+ twap,sma Cumulative Diff:	1.4427647301022306
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	128
+D in:	5
+K1 in:	
+Len:	4105
+
+ twap,sma Cumulative Diff:	1.9281372373132748
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	154
+D in:	4
+K1 in:	
+Len:	3882
+
+ twap,sma Cumulative Diff:	2.603755487855313
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	154
+D in:	4
+K1 in:	
+Len:	3837
+
+ twap,sma Cumulative Diff:	7.785050819143263
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	154
+D in:	4
+K1 in:	
+Len:	3816
+
+ twap,sma Cumulative Diff:	14.58932024118648
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	184
+D in:	3
+K1 in:	
+Len:	4314
+
+ twap,sma Cumulative Diff:	12.21550885376767
+bitchCunt:	0.029989050000000003Tick:	../data/BTC_XMR.txt
+K in:	184
+D in:	3
+K1 in:	
+Len:	3993
+
+ twap,sma Cumulative Diff:	180.1286531511241
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	184
+D in:	3
+K1 in:	
+Len:	3767
+
+ twap,sma Cumulative Diff:	1375.4360673300291
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	184
+D in:	3
+K1 in:	
+Len:	3646
+
+ twap,sma Cumulative Diff:	1082.5179297602
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	184
+D in:	3
+K1 in:	
+Len:	3563
+
+ twap,sma Cumulative Diff:	9900.870950381075
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	184
+D in:	3
+K1 in:	
+Len:	3508
+
+ twap,sma Cumulative Diff:	13140.298699232202
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	184
+D in:	3
+K1 in:	
+Len:	3478
+
+ twap,sma Cumulative Diff:	30866.582691480973
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	184
+D in:	4
+K1 in:	
+Len:	3754
+
+ twap,sma Cumulative Diff:	1.6734623251483223
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	184
+D in:	4
+K1 in:	
+Len:	3630
+
+ twap,sma Cumulative Diff:	2.1131524324317663
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	184
+D in:	4
+K1 in:	
+Len:	3552
+
+ twap,sma Cumulative Diff:	9.997919667592162
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	184
+D in:	4
+K1 in:	
+Len:	3499
+
+ twap,sma Cumulative Diff:	20.869401779105683
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	184
+D in:	4
+K1 in:	
+Len:	3475
+
+ twap,sma Cumulative Diff:	41.251934407464354
+bitchCunt:	0.14475141644145006Tick:	../data/BTC_XMR.txt
+K in:	221
+D in:	3
+K1 in:	
+Len:	3658
+
+ twap,sma Cumulative Diff:	1.393146701911756
+bitchCunt:	0.038985765000000006Tick:	../data/BTC_XMR.txt
+K in:	221
+D in:	3
+K1 in:	
+Len:	3416
+
+ twap,sma Cumulative Diff:	7.425991759494745
+bitchCunt:	0.05068149450000001Tick:	../data/BTC_XMR.txt
+K in:	221
+D in:	3
+K1 in:	
+Len:	3286
+
+ twap,sma Cumulative Diff:	14.33133122955885
+bitchCunt:	0.06588594285000002Tick:	../data/BTC_XMR.txt
+K in:	221
+D in:	3
+K1 in:	
+Len:	3194
+
+ twap,sma Cumulative Diff:	110.53663749528656
+bitchCunt:	0.08565172570500003Tick:	../data/BTC_XMR.txt
+K in:	221
+D in:	3
+K1 in:	
+Len:	3143
+
+ twap,sma Cumulative Diff:	194.52218515055162
+bitchCunt:	0.11134724341650004Tick:	../data/BTC_XMR.txt
+K in:	221
+D in:	3
+K1 in:	
+Len:	3111
+
+ twap,sma Cumulative Diff:	478.0629081491108
+bitchCunt:	0.14475141644145006
