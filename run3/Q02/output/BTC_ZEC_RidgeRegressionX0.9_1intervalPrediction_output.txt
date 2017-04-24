@@ -1,0 +1,2680 @@
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.001
+Lookback:	20
+Average Error:	0.00145442161635
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.001
+Lookback:	20
+Average Error:	0.00145442161635
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.0045000000000000005
+Lookback:	20
+Average Error:	0.00186463154394
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.0045000000000000005
+Lookback:	20
+Average Error:	0.00186463154394
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.008
+Lookback:	20
+Average Error:	0.00212993683342
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.008
+Lookback:	20
+Average Error:	0.00212993683342
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.0115
+Lookback:	20
+Average Error:	0.00234060583335
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.0115
+Lookback:	20
+Average Error:	0.00234060583335
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.012650000000000002
+Lookback:	20
+Average Error:	0.00240285633808
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.012650000000000002
+Lookback:	20
+Average Error:	0.00240285633808
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.013915000000000002
+Lookback:	20
+Average Error:	0.002468414125
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.013915000000000002
+Lookback:	20
+Average Error:	0.002468414125
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.015306500000000004
+Lookback:	20
+Average Error:	0.00253754753299
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.015306500000000004
+Lookback:	20
+Average Error:	0.00253754753299
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.016837150000000006
+Lookback:	20
+Average Error:	0.00261055755405
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.016837150000000006
+Lookback:	20
+Average Error:	0.00261055755405
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.018520865000000008
+Lookback:	20
+Average Error:	0.00268778129641
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.018520865000000008
+Lookback:	20
+Average Error:	0.00268778129641
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.02037295150000001
+Lookback:	20
+Average Error:	0.00276959573706
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.02037295150000001
+Lookback:	20
+Average Error:	0.00276959573706
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.022410246650000014
+Lookback:	20
+Average Error:	0.0028564217534
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.022410246650000014
+Lookback:	20
+Average Error:	0.0028564217534
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.024651271315000018
+Lookback:	20
+Average Error:	0.00294872841444
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.024651271315000018
+Lookback:	20
+Average Error:	0.00294872841444
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.02711639844650002
+Lookback:	20
+Average Error:	0.00304703750368
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.02711639844650002
+Lookback:	20
+Average Error:	0.00304703750368
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.029828038291150025
+Lookback:	20
+Average Error:	0.00315193939416
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.029828038291150025
+Lookback:	20
+Average Error:	0.00315193939416
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.032810842120265034
+Lookback:	20
+Average Error:	0.00326408851983
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.032810842120265034
+Lookback:	20
+Average Error:	0.00326408851983
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.03609192633229154
+Lookback:	20
+Average Error:	0.00338417281924
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.03609192633229154
+Lookback:	20
+Average Error:	0.00338417281924
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.03970111896552069
+Lookback:	20
+Average Error:	0.00351297384395
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.03970111896552069
+Lookback:	20
+Average Error:	0.00351297384395
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.043671230862072766
+Lookback:	20
+Average Error:	0.00365135068042
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.043671230862072766
+Lookback:	20
+Average Error:	0.00365135068042
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.048038353948280044
+Lookback:	20
+Average Error:	0.00380024507241
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.048038353948280044
+Lookback:	20
+Average Error:	0.00380024507241
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.052842189343108054
+Lookback:	20
+Average Error:	0.00396068651086
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.052842189343108054
+Lookback:	20
+Average Error:	0.00396068651086
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.05812640827741886
+Lookback:	20
+Average Error:	0.00413379725658
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.05812640827741886
+Lookback:	20
+Average Error:	0.00413379725658
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.06393904910516075
+Lookback:	20
+Average Error:	0.00432081724706
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.06393904910516075
+Lookback:	20
+Average Error:	0.00432081724706
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.07033295401567684
+Lookback:	20
+Average Error:	0.00452309326388
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.07033295401567684
+Lookback:	20
+Average Error:	0.00452309326388
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.07736624941724453
+Lookback:	20
+Average Error:	0.00474201723654
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.07736624941724453
+Lookback:	20
+Average Error:	0.00474201723654
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.08510287435896899
+Lookback:	20
+Average Error:	0.00497914264518
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.08510287435896899
+Lookback:	20
+Average Error:	0.00497914264518
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.0936131617948659
+Lookback:	20
+Average Error:	0.00523618841667
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.0936131617948659
+Lookback:	20
+Average Error:	0.00523618841667
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1029744779743525
+Lookback:	20
+Average Error:	0.00551486543883
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1029744779743525
+Lookback:	20
+Average Error:	0.00551486543883
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.11327192577178775
+Lookback:	20
+Average Error:	0.00581707314394
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.11327192577178775
+Lookback:	20
+Average Error:	0.00581707314394
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.12459911834896654
+Lookback:	20
+Average Error:	0.00614483625765
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.12459911834896654
+Lookback:	20
+Average Error:	0.00614483625765
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1370590301838632
+Lookback:	20
+Average Error:	0.00650030691048
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1370590301838632
+Lookback:	20
+Average Error:	0.00650030691048
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.15076493320224954
+Lookback:	20
+Average Error:	0.00688576600556
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.15076493320224954
+Lookback:	20
+Average Error:	0.00688576600556
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1658414265224745
+Lookback:	20
+Average Error:	0.00730362371732
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1658414265224745
+Lookback:	20
+Average Error:	0.00730362371732
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.18242556917472197
+Lookback:	20
+Average Error:	0.00775641898372
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.18242556917472197
+Lookback:	20
+Average Error:	0.00775641898372
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.20066812609219417
+Lookback:	20
+Average Error:	0.00824681784032
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.20066812609219417
+Lookback:	20
+Average Error:	0.00824681784032
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2207349387014136
+Lookback:	20
+Average Error:	0.00877761042872
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2207349387014136
+Lookback:	20
+Average Error:	0.00877761042872
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.242808432571555
+Lookback:	20
+Average Error:	0.0093517064929
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.242808432571555
+Lookback:	20
+Average Error:	0.0093517064929
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2670892758287105
+Lookback:	20
+Average Error:	0.00997212915413
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2670892758287105
+Lookback:	20
+Average Error:	0.00997212915413
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2937982034115816
+Lookback:	20
+Average Error:	0.0106420067281
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2937982034115816
+Lookback:	20
+Average Error:	0.0106420067281
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.32317802375273974
+Lookback:	20
+Average Error:	0.011364562317
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.32317802375273974
+Lookback:	20
+Average Error:	0.011364562317
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3554958261280137
+Lookback:	20
+Average Error:	0.0121431008759
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3554958261280137
+Lookback:	20
+Average Error:	0.0121431008759
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3910454087408151
+Lookback:	20
+Average Error:	0.0129809934194
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3910454087408151
+Lookback:	20
+Average Error:	0.0129809934194
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.43014994961489667
+Lookback:	20
+Average Error:	0.0138816580065
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.43014994961489667
+Lookback:	20
+Average Error:	0.0138816580065
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.47316494457638636
+Lookback:	20
+Average Error:	0.0148485371251
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.47316494457638636
+Lookback:	20
+Average Error:	0.0148485371251
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.520481439034025
+Lookback:	20
+Average Error:	0.0158850710995
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.520481439034025
+Lookback:	20
+Average Error:	0.0158850710995
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.5725295829374275
+Lookback:	20
+Average Error:	0.0169946671748
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.5725295829374275
+Lookback:	20
+Average Error:	0.0169946671748
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6297825412311703
+Lookback:	20
+Average Error:	0.0181806640007
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6297825412311703
+Lookback:	20
+Average Error:	0.0181806640007
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6927607953542874
+Lookback:	20
+Average Error:	0.0194462913509
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6927607953542874
+Lookback:	20
+Average Error:	0.0194462913509
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.7620368748897162
+Lookback:	20
+Average Error:	0.0207946250769
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.7620368748897162
+Lookback:	20
+Average Error:	0.0207946250769
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.8382405623786878
+Lookback:	20
+Average Error:	0.0222285375119
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.8382405623786878
+Lookback:	20
+Average Error:	0.0222285375119
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.9220646186165566
+Lookback:	20
+Average Error:	0.0237506437994
+Len:	1
+Cumulative Diff:	1.1734547801600577
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.9220646186165566
+Lookback:	20
+Average Error:	0.0237506437994
+Len:	1
+Cumulative Diff:	1.1295767643840158
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.001
+Lookback:	24
+Average Error:	0.000935080382684
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.001
+Lookback:	24
+Average Error:	0.000935080382684
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.001
+Lookback:	24
+Average Error:	0.000935080382684
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.0045000000000000005
+Lookback:	24
+Average Error:	0.00123708338124
+Len:	2
+Cumulative Diff:	1.2599801512849842
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.0045000000000000005
+Lookback:	24
+Average Error:	0.00123708338124
+Len:	2
+Cumulative Diff:	1.225461245833678
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.0045000000000000005
+Lookback:	24
+Average Error:	0.00123708338124
+Len:	2
+Cumulative Diff:	1.1792757039944595
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.03970111896552069
+Lookback:	24
+Average Error:	0.00287982209653
+Len:	2
+Cumulative Diff:	1.2599801512849842
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.03970111896552069
+Lookback:	24
+Average Error:	0.00287982209653
+Len:	2
+Cumulative Diff:	1.225461245833678
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.03970111896552069
+Lookback:	24
+Average Error:	0.00287982209653
+Len:	2
+Cumulative Diff:	1.1792757039944595
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.043671230862072766
+Lookback:	24
+Average Error:	0.0030132138627
+Len:	2
+Cumulative Diff:	1.2599801512849842
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.043671230862072766
+Lookback:	24
+Average Error:	0.0030132138627
+Len:	2
+Cumulative Diff:	1.225461245833678
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.043671230862072766
+Lookback:	24
+Average Error:	0.0030132138627
+Len:	2
+Cumulative Diff:	1.1792757039944595
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.048038353948280044
+Lookback:	24
+Average Error:	0.00315421168683
+Len:	2
+Cumulative Diff:	1.2599801512849842
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.048038353948280044
+Lookback:	24
+Average Error:	0.00315421168683
+Len:	2
+Cumulative Diff:	1.225461245833678
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.048038353948280044
+Lookback:	24
+Average Error:	0.00315421168683
+Len:	2
+Cumulative Diff:	1.1792757039944595
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.052842189343108054
+Lookback:	24
+Average Error:	0.00330329545565
+Len:	2
+Cumulative Diff:	1.2599801512849842
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.052842189343108054
+Lookback:	24
+Average Error:	0.00330329545565
+Len:	2
+Cumulative Diff:	1.225461245833678
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.052842189343108054
+Lookback:	24
+Average Error:	0.00330329545565
+Len:	2
+Cumulative Diff:	1.1792757039944595
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.05812640827741886
+Lookback:	24
+Average Error:	0.00346100456694
+Len:	2
+Cumulative Diff:	1.2599801512849842
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.05812640827741886
+Lookback:	24
+Average Error:	0.00346100456694
+Len:	2
+Cumulative Diff:	1.225461245833678
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.05812640827741886
+Lookback:	24
+Average Error:	0.00346100456694
+Len:	2
+Cumulative Diff:	1.1792757039944595
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.06393904910516075
+Lookback:	24
+Average Error:	0.00362788421791
+Len:	2
+Cumulative Diff:	1.2599801512849842
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.06393904910516075
+Lookback:	24
+Average Error:	0.00362788421791
+Len:	2
+Cumulative Diff:	1.225461245833678
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.06393904910516075
+Lookback:	24
+Average Error:	0.00362788421791
+Len:	2
+Cumulative Diff:	1.1792757039944595
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.07033295401567684
+Lookback:	24
+Average Error:	0.00380457921589
+Len:	2
+Cumulative Diff:	1.2599801512849842
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.07033295401567684
+Lookback:	24
+Average Error:	0.00380457921589
+Len:	2
+Cumulative Diff:	1.225461245833678
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.07033295401567684
+Lookback:	24
+Average Error:	0.00380457921589
+Len:	2
+Cumulative Diff:	1.1792757039944595
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.07736624941724453
+Lookback:	24
+Average Error:	0.00399180994704
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.07736624941724453
+Lookback:	24
+Average Error:	0.00399180994704
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.07736624941724453
+Lookback:	24
+Average Error:	0.00399180994704
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.08510287435896899
+Lookback:	24
+Average Error:	0.00419038065373
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.08510287435896899
+Lookback:	24
+Average Error:	0.00419038065373
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.08510287435896899
+Lookback:	24
+Average Error:	0.00419038065373
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.0936131617948659
+Lookback:	24
+Average Error:	0.00440118762619
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.0936131617948659
+Lookback:	24
+Average Error:	0.00440118762619
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.0936131617948659
+Lookback:	24
+Average Error:	0.00440118762619
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1029744779743525
+Lookback:	24
+Average Error:	0.00462523525128
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1029744779743525
+Lookback:	24
+Average Error:	0.00462523525128
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1029744779743525
+Lookback:	24
+Average Error:	0.00462523525128
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.11327192577178775
+Lookback:	24
+Average Error:	0.00486368415954
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.11327192577178775
+Lookback:	24
+Average Error:	0.00486368415954
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.11327192577178775
+Lookback:	24
+Average Error:	0.00486368415954
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.12459911834896654
+Lookback:	24
+Average Error:	0.00511769444919
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.12459911834896654
+Lookback:	24
+Average Error:	0.00511769444919
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.12459911834896654
+Lookback:	24
+Average Error:	0.00511769444919
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1370590301838632
+Lookback:	24
+Average Error:	0.00538860631318
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1370590301838632
+Lookback:	24
+Average Error:	0.00538860631318
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1370590301838632
+Lookback:	24
+Average Error:	0.00538860631318
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.15076493320224954
+Lookback:	24
+Average Error:	0.0056779364706
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.15076493320224954
+Lookback:	24
+Average Error:	0.0056779364706
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.15076493320224954
+Lookback:	24
+Average Error:	0.0056779364706
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1658414265224745
+Lookback:	24
+Average Error:	0.00598728309855
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1658414265224745
+Lookback:	24
+Average Error:	0.00598728309855
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1658414265224745
+Lookback:	24
+Average Error:	0.00598728309855
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.18242556917472197
+Lookback:	24
+Average Error:	0.00631834283032
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.18242556917472197
+Lookback:	24
+Average Error:	0.00631834283032
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.18242556917472197
+Lookback:	24
+Average Error:	0.00631834283032
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.20066812609219417
+Lookback:	24
+Average Error:	0.00667299252088
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.20066812609219417
+Lookback:	24
+Average Error:	0.00667299252088
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.20066812609219417
+Lookback:	24
+Average Error:	0.00667299252088
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2207349387014136
+Lookback:	24
+Average Error:	0.00705325210842
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2207349387014136
+Lookback:	24
+Average Error:	0.00705325210842
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2207349387014136
+Lookback:	24
+Average Error:	0.00705325210842
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.242808432571555
+Lookback:	24
+Average Error:	0.00746128662852
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.242808432571555
+Lookback:	24
+Average Error:	0.00746128662852
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.242808432571555
+Lookback:	24
+Average Error:	0.00746128662852
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2670892758287105
+Lookback:	24
+Average Error:	0.00789940733688
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2670892758287105
+Lookback:	24
+Average Error:	0.00789940733688
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2670892758287105
+Lookback:	24
+Average Error:	0.00789940733688
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2937982034115816
+Lookback:	24
+Average Error:	0.00837007184831
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2937982034115816
+Lookback:	24
+Average Error:	0.00837007184831
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2937982034115816
+Lookback:	24
+Average Error:	0.00837007184831
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.32317802375273974
+Lookback:	24
+Average Error:	0.00887588315994
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.32317802375273974
+Lookback:	24
+Average Error:	0.00887588315994
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.32317802375273974
+Lookback:	24
+Average Error:	0.00887588315994
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3554958261280137
+Lookback:	24
+Average Error:	0.00941958737964
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3554958261280137
+Lookback:	24
+Average Error:	0.00941958737964
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3554958261280137
+Lookback:	24
+Average Error:	0.00941958737964
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3910454087408151
+Lookback:	24
+Average Error:	0.0100040699291
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3910454087408151
+Lookback:	24
+Average Error:	0.0100040699291
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3910454087408151
+Lookback:	24
+Average Error:	0.0100040699291
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.43014994961489667
+Lookback:	24
+Average Error:	0.0106323499375
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.43014994961489667
+Lookback:	24
+Average Error:	0.0106323499375
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.43014994961489667
+Lookback:	24
+Average Error:	0.0106323499375
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.47316494457638636
+Lookback:	24
+Average Error:	0.0113075724904
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.47316494457638636
+Lookback:	24
+Average Error:	0.0113075724904
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.47316494457638636
+Lookback:	24
+Average Error:	0.0113075724904
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.520481439034025
+Lookback:	24
+Average Error:	0.0120329983541
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.520481439034025
+Lookback:	24
+Average Error:	0.0120329983541
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.520481439034025
+Lookback:	24
+Average Error:	0.0120329983541
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.5725295829374275
+Lookback:	24
+Average Error:	0.0128119907626
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.5725295829374275
+Lookback:	24
+Average Error:	0.0128119907626
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.5725295829374275
+Lookback:	24
+Average Error:	0.0128119907626
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6297825412311703
+Lookback:	24
+Average Error:	0.0136479988413
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6297825412311703
+Lookback:	24
+Average Error:	0.0136479988413
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6297825412311703
+Lookback:	24
+Average Error:	0.0136479988413
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6927607953542874
+Lookback:	24
+Average Error:	0.0145445372493
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6927607953542874
+Lookback:	24
+Average Error:	0.0145445372493
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6927607953542874
+Lookback:	24
+Average Error:	0.0145445372493
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.7620368748897162
+Lookback:	24
+Average Error:	0.015505161663
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.7620368748897162
+Lookback:	24
+Average Error:	0.015505161663
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.7620368748897162
+Lookback:	24
+Average Error:	0.015505161663
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.8382405623786878
+Lookback:	24
+Average Error:	0.016533439795
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.8382405623786878
+Lookback:	24
+Average Error:	0.016533439795
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.8382405623786878
+Lookback:	24
+Average Error:	0.016533439795
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.9220646186165566
+Lookback:	24
+Average Error:	0.0176329177522
+Len:	1
+Cumulative Diff:	1.1894389624624737
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.9220646186165566
+Lookback:	24
+Average Error:	0.0176329177522
+Len:	1
+Cumulative Diff:	1.1813027160167513
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.9220646186165566
+Lookback:	24
+Average Error:	0.0176329177522
+Len:	1
+Cumulative Diff:	1.1371312489214498
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.001
+Lookback:	28
+Average Error:	0.000754705597314
+Len:	3
+Cumulative Diff:	1.03790427112548
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.001
+Lookback:	28
+Average Error:	0.000754705597314
+Len:	3
+Cumulative Diff:	1.026024213600755
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.001
+Lookback:	28
+Average Error:	0.000754705597314
+Len:	3
+Cumulative Diff:	1.1041400953476859
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.08510287435896899
+Lookback:	28
+Average Error:	0.00353709898829
+Len:	2
+Cumulative Diff:	1.255287598045106
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.08510287435896899
+Lookback:	28
+Average Error:	0.00353709898829
+Len:	2
+Cumulative Diff:	1.22089725160439
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.08510287435896899
+Lookback:	28
+Average Error:	0.00353709898829
+Len:	2
+Cumulative Diff:	1.1748837189144998
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.0936131617948659
+Lookback:	28
+Average Error:	0.00371756196927
+Len:	2
+Cumulative Diff:	1.255287598045106
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.0936131617948659
+Lookback:	28
+Average Error:	0.00371756196927
+Len:	2
+Cumulative Diff:	1.22089725160439
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.0936131617948659
+Lookback:	28
+Average Error:	0.00371756196927
+Len:	2
+Cumulative Diff:	1.1748837189144998
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1029744779743525
+Lookback:	28
+Average Error:	0.00390877628878
+Len:	2
+Cumulative Diff:	1.255287598045106
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1029744779743525
+Lookback:	28
+Average Error:	0.00390877628878
+Len:	2
+Cumulative Diff:	1.22089725160439
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1029744779743525
+Lookback:	28
+Average Error:	0.00390877628878
+Len:	2
+Cumulative Diff:	1.1748837189144998
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.11327192577178775
+Lookback:	28
+Average Error:	0.00411146799523
+Len:	2
+Cumulative Diff:	1.255287598045106
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.11327192577178775
+Lookback:	28
+Average Error:	0.00411146799523
+Len:	2
+Cumulative Diff:	1.22089725160439
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.11327192577178775
+Lookback:	28
+Average Error:	0.00411146799523
+Len:	2
+Cumulative Diff:	1.1748837189144998
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.12459911834896654
+Lookback:	28
+Average Error:	0.00432643503647
+Len:	2
+Cumulative Diff:	1.255287598045106
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.12459911834896654
+Lookback:	28
+Average Error:	0.00432643503647
+Len:	2
+Cumulative Diff:	1.22089725160439
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.12459911834896654
+Lookback:	28
+Average Error:	0.00432643503647
+Len:	2
+Cumulative Diff:	1.1748837189144998
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1370590301838632
+Lookback:	28
+Average Error:	0.00455455565082
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1370590301838632
+Lookback:	28
+Average Error:	0.00455455565082
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1370590301838632
+Lookback:	28
+Average Error:	0.00455455565082
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.15076493320224954
+Lookback:	28
+Average Error:	0.00479679702582
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.15076493320224954
+Lookback:	28
+Average Error:	0.00479679702582
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.15076493320224954
+Lookback:	28
+Average Error:	0.00479679702582
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1658414265224745
+Lookback:	28
+Average Error:	0.00505428933327
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1658414265224745
+Lookback:	28
+Average Error:	0.00505428933327
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.1658414265224745
+Lookback:	28
+Average Error:	0.00505428933327
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.18242556917472197
+Lookback:	28
+Average Error:	0.0053281586949
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.18242556917472197
+Lookback:	28
+Average Error:	0.0053281586949
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.18242556917472197
+Lookback:	28
+Average Error:	0.0053281586949
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.20066812609219417
+Lookback:	28
+Average Error:	0.00561967817247
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.20066812609219417
+Lookback:	28
+Average Error:	0.00561967817247
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.20066812609219417
+Lookback:	28
+Average Error:	0.00561967817247
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2207349387014136
+Lookback:	28
+Average Error:	0.0059302787945
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2207349387014136
+Lookback:	28
+Average Error:	0.0059302787945
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2207349387014136
+Lookback:	28
+Average Error:	0.0059302787945
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.242808432571555
+Lookback:	28
+Average Error:	0.00626155996719
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.242808432571555
+Lookback:	28
+Average Error:	0.00626155996719
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.242808432571555
+Lookback:	28
+Average Error:	0.00626155996719
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2670892758287105
+Lookback:	28
+Average Error:	0.00661512542315
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2670892758287105
+Lookback:	28
+Average Error:	0.00661512542315
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2670892758287105
+Lookback:	28
+Average Error:	0.00661512542315
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2937982034115816
+Lookback:	28
+Average Error:	0.00699279449794
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2937982034115816
+Lookback:	28
+Average Error:	0.00699279449794
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2937982034115816
+Lookback:	28
+Average Error:	0.00699279449794
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.32317802375273974
+Lookback:	28
+Average Error:	0.00739653368378
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.32317802375273974
+Lookback:	28
+Average Error:	0.00739653368378
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.32317802375273974
+Lookback:	28
+Average Error:	0.00739653368378
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3554958261280137
+Lookback:	28
+Average Error:	0.00782846015419
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3554958261280137
+Lookback:	28
+Average Error:	0.00782846015419
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3554958261280137
+Lookback:	28
+Average Error:	0.00782846015419
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3910454087408151
+Lookback:	28
+Average Error:	0.00829084399693
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3910454087408151
+Lookback:	28
+Average Error:	0.00829084399693
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3910454087408151
+Lookback:	28
+Average Error:	0.00829084399693
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.43014994961489667
+Lookback:	28
+Average Error:	0.00878610900421
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.43014994961489667
+Lookback:	28
+Average Error:	0.00878610900421
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.43014994961489667
+Lookback:	28
+Average Error:	0.00878610900421
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.47316494457638636
+Lookback:	28
+Average Error:	0.00931683184646
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.47316494457638636
+Lookback:	28
+Average Error:	0.00931683184646
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.47316494457638636
+Lookback:	28
+Average Error:	0.00931683184646
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.520481439034025
+Lookback:	28
+Average Error:	0.00988573942852
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.520481439034025
+Lookback:	28
+Average Error:	0.00988573942852
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.520481439034025
+Lookback:	28
+Average Error:	0.00988573942852
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.5725295829374275
+Lookback:	28
+Average Error:	0.0104957041971
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.5725295829374275
+Lookback:	28
+Average Error:	0.0104957041971
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.5725295829374275
+Lookback:	28
+Average Error:	0.0104957041971
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6297825412311703
+Lookback:	28
+Average Error:	0.0111497371401
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6297825412311703
+Lookback:	28
+Average Error:	0.0111497371401
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6297825412311703
+Lookback:	28
+Average Error:	0.0111497371401
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6927607953542874
+Lookback:	28
+Average Error:	0.0118509781971
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6927607953542874
+Lookback:	28
+Average Error:	0.0118509781971
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6927607953542874
+Lookback:	28
+Average Error:	0.0118509781971
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.7620368748897162
+Lookback:	28
+Average Error:	0.0126026837878
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.7620368748897162
+Lookback:	28
+Average Error:	0.0126026837878
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.7620368748897162
+Lookback:	28
+Average Error:	0.0126026837878
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.8382405623786878
+Lookback:	28
+Average Error:	0.0134082111726
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.8382405623786878
+Lookback:	28
+Average Error:	0.0134082111726
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.8382405623786878
+Lookback:	28
+Average Error:	0.0134082111726
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.9220646186165566
+Lookback:	28
+Average Error:	0.0142709993777
+Len:	1
+Cumulative Diff:	1.1848221637901555
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.9220646186165566
+Lookback:	28
+Average Error:	0.0142709993777
+Len:	1
+Cumulative Diff:	1.1767174981257709
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.9220646186165566
+Lookback:	28
+Average Error:	0.0142709993777
+Len:	1
+Cumulative Diff:	1.132717482258381
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.001
+Lookback:	34
+Average Error:	0.000739823144044
+Len:	7
+Cumulative Diff:	1.1337241658148816
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.242808432571555
+Lookback:	34
+Average Error:	0.00450086396293
+Len:	2
+Cumulative Diff:	1.2693922810459146
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.242808432571555
+Lookback:	34
+Average Error:	0.00450086396293
+Len:	2
+Cumulative Diff:	1.2346155172331243
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.242808432571555
+Lookback:	34
+Average Error:	0.00450086396293
+Len:	2
+Cumulative Diff:	1.1880849665360866
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2670892758287105
+Lookback:	34
+Average Error:	0.00476605085529
+Len:	2
+Cumulative Diff:	1.2693922810459146
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2670892758287105
+Lookback:	34
+Average Error:	0.00476605085529
+Len:	2
+Cumulative Diff:	1.2346155172331243
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2670892758287105
+Lookback:	34
+Average Error:	0.00476605085529
+Len:	2
+Cumulative Diff:	1.1880849665360866
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2937982034115816
+Lookback:	34
+Average Error:	0.0050507562724
+Len:	2
+Cumulative Diff:	1.2693922810459146
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2937982034115816
+Lookback:	34
+Average Error:	0.0050507562724
+Len:	2
+Cumulative Diff:	1.2346155172331243
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.2937982034115816
+Lookback:	34
+Average Error:	0.0050507562724
+Len:	2
+Cumulative Diff:	1.1880849665360866
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.32317802375273974
+Lookback:	34
+Average Error:	0.00535651820679
+Len:	2
+Cumulative Diff:	1.2693922810459146
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.32317802375273974
+Lookback:	34
+Average Error:	0.00535651820679
+Len:	2
+Cumulative Diff:	1.2346155172331243
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.32317802375273974
+Lookback:	34
+Average Error:	0.00535651820679
+Len:	2
+Cumulative Diff:	1.1880849665360866
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3554958261280137
+Lookback:	34
+Average Error:	0.00568499780757
+Len:	1
+Cumulative Diff:	1.1986991468360184
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3554958261280137
+Lookback:	34
+Average Error:	0.00568499780757
+Len:	1
+Cumulative Diff:	1.190499556961525
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3554958261280137
+Lookback:	34
+Average Error:	0.00568499780757
+Len:	1
+Cumulative Diff:	1.1459842000641731
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3910454087408151
+Lookback:	34
+Average Error:	0.00603787887747
+Len:	1
+Cumulative Diff:	1.1986991468360184
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3910454087408151
+Lookback:	34
+Average Error:	0.00603787887747
+Len:	1
+Cumulative Diff:	1.190499556961525
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.3910454087408151
+Lookback:	34
+Average Error:	0.00603787887747
+Len:	1
+Cumulative Diff:	1.1459842000641731
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.43014994961489667
+Lookback:	34
+Average Error:	0.00641704119564
+Len:	1
+Cumulative Diff:	1.1986991468360184
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.43014994961489667
+Lookback:	34
+Average Error:	0.00641704119564
+Len:	1
+Cumulative Diff:	1.190499556961525
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.43014994961489667
+Lookback:	34
+Average Error:	0.00641704119564
+Len:	1
+Cumulative Diff:	1.1459842000641731
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.47316494457638636
+Lookback:	34
+Average Error:	0.00682463529176
+Len:	1
+Cumulative Diff:	1.1986991468360184
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.47316494457638636
+Lookback:	34
+Average Error:	0.00682463529176
+Len:	1
+Cumulative Diff:	1.190499556961525
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.47316494457638636
+Lookback:	34
+Average Error:	0.00682463529176
+Len:	1
+Cumulative Diff:	1.1459842000641731
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.520481439034025
+Lookback:	34
+Average Error:	0.00726269290519
+Len:	1
+Cumulative Diff:	1.1986991468360184
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.520481439034025
+Lookback:	34
+Average Error:	0.00726269290519
+Len:	1
+Cumulative Diff:	1.190499556961525
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.520481439034025
+Lookback:	34
+Average Error:	0.00726269290519
+Len:	1
+Cumulative Diff:	1.1459842000641731
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.5725295829374275
+Lookback:	34
+Average Error:	0.00773350880595
+Len:	1
+Cumulative Diff:	1.1986991468360184
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.5725295829374275
+Lookback:	34
+Average Error:	0.00773350880595
+Len:	1
+Cumulative Diff:	1.190499556961525
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.5725295829374275
+Lookback:	34
+Average Error:	0.00773350880595
+Len:	1
+Cumulative Diff:	1.1459842000641731
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6297825412311703
+Lookback:	34
+Average Error:	0.00823951916902
+Len:	1
+Cumulative Diff:	1.1986991468360184
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6297825412311703
+Lookback:	34
+Average Error:	0.00823951916902
+Len:	1
+Cumulative Diff:	1.190499556961525
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6297825412311703
+Lookback:	34
+Average Error:	0.00823951916902
+Len:	1
+Cumulative Diff:	1.1459842000641731
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6927607953542874
+Lookback:	34
+Average Error:	0.00878329932017
+Len:	1
+Cumulative Diff:	1.1986991468360184
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6927607953542874
+Lookback:	34
+Average Error:	0.00878329932017
+Len:	1
+Cumulative Diff:	1.190499556961525
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.6927607953542874
+Lookback:	34
+Average Error:	0.00878329932017
+Len:	1
+Cumulative Diff:	1.1459842000641731
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.7620368748897162
+Lookback:	34
+Average Error:	0.00936756005583
+Len:	1
+Cumulative Diff:	1.1986991468360184
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.7620368748897162
+Lookback:	34
+Average Error:	0.00936756005583
+Len:	1
+Cumulative Diff:	1.190499556961525
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.7620368748897162
+Lookback:	34
+Average Error:	0.00936756005583
+Len:	1
+Cumulative Diff:	1.1459842000641731
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.8382405623786878
+Lookback:	34
+Average Error:	0.0099951417022
+Len:	1
+Cumulative Diff:	1.1986991468360184
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.8382405623786878
+Lookback:	34
+Average Error:	0.0099951417022
+Len:	1
+Cumulative Diff:	1.190499556961525
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.8382405623786878
+Lookback:	34
+Average Error:	0.0099951417022
+Len:	1
+Cumulative Diff:	1.1459842000641731
+bitchCunt:	0.15853726562635007
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.9220646186165566
+Lookback:	34
+Average Error:	0.0106690057152
+Len:	1
+Cumulative Diff:	1.1986991468360184
+bitchCunt:	0.09380903291500002
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.9220646186165566
+Lookback:	34
+Average Error:	0.0106690057152
+Len:	1
+Cumulative Diff:	1.190499556961525
+bitchCunt:	0.12195174278950004
+
+Tick:	../data/BTC_ZEC.txt
+Alpha::	0.9220646186165566
+Lookback:	34
+Average Error:	0.0106690057152
+Len:	1
+Cumulative Diff:	1.1459842000641731
+bitchCunt:	0.15853726562635007
+
