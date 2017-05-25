@@ -120,9 +120,9 @@ while 1:
     try:
         buy_book_outputs = []; sell_book_outputs = []; price_outputs = [];
         for i in range(len(pairs)):
-            buy_book_outputs.append("HD_60x100_outputs/books/" + pairs[i] + "_buy_books.txt")
-            sell_book_outputs.append("HD_60x100_outputs/books/" + pairs[i] + "_sell_books.txt")
-            price_outputs.append("HD_60x100_outputs/prices/" + pairs[i] + "_prices.txt")
+            buy_book_outputs.append("HD_6x100_outputs/books/" + pairs[i] + "_buy_books.txt")
+            sell_book_outputs.append("HD_6x100_outputs/books/" + pairs[i] + "_sell_books.txt")
+            price_outputs.append("HD_6x100_outputs/prices/" + pairs[i] + "_prices.txt")
             if os.path.isfile(buy_book_outputs[i]):
                 th = 'a'
             else:
@@ -157,8 +157,8 @@ while 1:
             sbf.close()
             pf.close()
             print("got:", pairs[i])
-        print("sleeping for 1 min")
-        time.sleep(60)
+        print("sleeping for 6 seconds")
+        time.sleep(6)
 
 
 

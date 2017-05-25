@@ -40,6 +40,7 @@ class Bittrex(object):
         :return: JSON response from Bittrex
         :rtype : dict
         """
+
         if not options:
             options = {}
         nonce = str(int(time.time() * 1000))
@@ -73,7 +74,7 @@ class Bittrex(object):
     def get_market_summaries(self):
         return self.api_query('getmarketsummaries')
 
-    def get_orderbook(self, market, depth_type, depth=20):
+    def get_orderbook(self, market, depth_type, depth):
         return self.api_query('getorderbook', {'market': market, 'type': depth_type, 'depth': depth})
 
     def get_market_history(self, market, count):
@@ -114,54 +115,53 @@ class Bittrex(object):
 
 
 b = Bittrex('ab7ca920bab3412d875bbf3c9ce39f91', 'f7763a3666d24f20b65422b3726d0cbf')
-pairs = ['BTC-XMR', 'BTC-MAID', 'BTC-XRP', 'BTC-ETH', 'BTC-LTC', 'BTC-DASH']
-
-sell_book_outputs = []; price_outputs = []; buy_book_outputs = [];
-
-while 1: 
-	try:
-	    for i in range(len(pairs)):
-        	buy_book_outputs.append("outputs/books/" + pairs[i] + "_buy_books.txt")
-	        sell_book_outputs.append("outputs/books/" + pairs[i] + "_sell_books.txt")
-	        price_outputs.append("outputs/prices/" + pairs[i] + "_prices.txt")
-	        if os.path.isfile(buy_book_outputs[i]):
-	            th = 'a'
-	        else:
-	            th = 'w'
-	        if os.path.isfile(price_outputs[i]):
-	            th1 = 'a'
-	        else:
-	            th1 = 'w'
-	        if os.path.isfile(sell_book_outputs[i]):
-	            th2 = 'a'
-	        else:
-	            th2 = 'w'
-	        sbf = open(sell_book_outputs[i], th2)
-	        bbf = open(buy_book_outputs[i], th)
-	        pf = open(price_outputs[i], th1)
-	        buy_book = b.get_orderbook(pairs[i], 'buy', 5)
-	        sell_book = b.get_orderbook(pairs[i], 'sell', 5)
-		for k in range(len(pairs)):
-	            bbf.write(str(buy_book['result'][i]['Rate']))
-	            bbf.write("\t")
-	            bbf.write(str(buy_book['result'][i]['Quantity']))
-	            bbf.write('\n')
-	            sbf.write(str(sell_book['result'][i]['Rate']))
-	            sbf.write('\t')
-	            sbf.write(str(sell_book['result'][i]['Quantity']))
-	            sbf.write('\n')
-	        tick = b.get_ticker(pairs[i])
-	        price = np.mean([tick['result']['Ask'], tick['result']['Bid']])
-	        pf.write(str(price))
-		pf.write("\n")
-	        bbf.close()
-	        sbf.close()
-	        pf.close()
-		print("got:", pairs[i])
-	    print("i slp now")
-	    time.sleep(60)
+pairs = ['BTC-XMR', 'BTC-MAID', 'BTC-DASH', 'BTC-XRP', 'BTC-ETH', 'BTC-LTC', 'BTC-XEM']
+while 1:
+    try:
+        buy_book_outputs = []; sell_book_outputs = []; price_outputs = [];
+        for i in range(len(pairs)):
+            buy_book_outputs.append("HD_60x100_outputs/books/" + pairs[i] + "_buy_books.txt")
+            sell_book_outputs.append("HD_60x100_outputs/books/" + pairs[i] + "_sell_books.txt")
+            price_outputs.append("HD_60x100_outputs/prices/" + pairs[i] + "_prices.txt")
+            if os.path.isfile(buy_book_outputs[i]):
+                th = 'a'
+            else:
+                th = 'w'
+            if os.path.isfile(price_outputs[i]):
+                th1 = 'a'
+            else:
+                th1 = 'w'
+            if os.path.isfile(sell_book_outputs[i]):
+                th2 = 'a'
+            else:
+                th2 = 'w'
+            sbf = open(sell_book_outputs[i], th2)
+            bbf = open(buy_book_outputs[i], th)
+            pf = open(price_outputs[i], th1)
+            buy_book = b.get_orderbook(pairs[i], 'buy', 100)
+            sell_book = b.get_orderbook(pairs[i], 'sell', 100)
+            for k in range(100):
+                    bbf.write(str(buy_book['result'][k]['Rate']))
+                    bbf.write("\t")
+                    bbf.write(str(buy_book['result'][k]['Quantity']))
+                    bbf.write('\n')
+                    sbf.write(str(sell_book['result'][k]['Rate']))
+                    sbf.write('\t')
+                    sbf.write(str(sell_book['result'][k]['Quantity']))
+                    sbf.write('\n')
+            tick = b.get_ticker(pairs[i])
+            price = np.mean([tick['result']['Ask'], tick['result']['Bid']])
+            pf.write(str(price))
+            pf.write("\n")
+            bbf.close()
+            sbf.close()
+            pf.close()
+            print("got:", pairs[i])
+        print("sleeping for 1 min")
+        time.sleep(60)
 
 
-    	except:
-		for i in range(20):
-			print("failed @")
+
+    except:
+        for i in range(20):
+            print("failed @")
